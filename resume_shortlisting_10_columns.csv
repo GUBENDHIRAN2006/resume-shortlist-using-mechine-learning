@@ -1,0 +1,1001 @@
+name,education_level,years_experience,skills,certifications,job_role_applied,university_tier,known_languages,location,shortlisted
+Candidate_1,Bachelor's,7.1,"Flask, NumPy, AWS, Pandas, JavaScript, Java",4,ML Engineer,Tier 2,"Telugu, Hindi",Mumbai,0
+Candidate_2,Master's,5.1,"NLP, C++, Keras, Matplotlib, Pandas",2,Data Scientist,Tier 3,Hindi,Pune,0
+Candidate_3,PhD,0.1,"Machine Learning, TensorFlow, React",4,ML Engineer,Tier 1,"Telugu, English",Chennai,1
+Candidate_4,Master's,4.7,"SQL, C++, React, AWS, TensorFlow, NumPy",3,Backend Developer,Tier 1,"Tamil, Telugu",Hyderabad,0
+Candidate_5,PhD,7.4,"Flask, Pandas, Java",4,Backend Developer,Tier 1,"Hindi, Tamil, Telugu",Bangalore,1
+Candidate_6,PhD,7.7,"NLP, Keras, NumPy",1,Data Scientist,Tier 1,"Telugu, Tamil, Hindi",Pune,0
+Candidate_7,Bachelor's,0.8,"Flask, TensorFlow, C++",2,ML Engineer,Tier 3,Tamil,Hyderabad,1
+Candidate_8,Bachelor's,0.9,"Deep Learning, Machine Learning, React, Node.js, NLP, Matplotlib",3,ML Engineer,Tier 1,"Telugu, Tamil, Kannada",Delhi,0
+Candidate_9,Master's,8.2,"C++, Spark, JavaScript, Deep Learning",5,Frontend Developer,Tier 2,Telugu,Chennai,0
+Candidate_10,Bachelor's,7.9,"Flask, Matplotlib, Python, Pandas, JavaScript, Deep Learning",3,Data Analyst,Tier 1,"Hindi, Telugu, Tamil",Delhi,0
+Candidate_11,Bachelor's,6.0,"NLP, Node.js, Spark, Python",2,Frontend Developer,Tier 2,"English, Telugu, Tamil",Mumbai,0
+Candidate_12,Master's,4.1,"Seaborn, Keras, Matplotlib, Deep Learning, SQL",1,ML Engineer,Tier 1,"Kannada, Hindi, Tamil",Mumbai,0
+Candidate_13,Master's,2.9,"Machine Learning, SQL, C++, Spark, Seaborn, Deep Learning",0,Data Analyst,Tier 1,"Kannada, English",Pune,1
+Candidate_14,Master's,5.0,"Machine Learning, Keras, Node.js",1,ML Engineer,Tier 1,Telugu,Bangalore,0
+Candidate_15,Master's,9.7,"Keras, TensorFlow, Python, NLP, Django, Flask",2,Frontend Developer,Tier 2,"Telugu, Hindi",Bangalore,1
+Candidate_16,Master's,0.3,"JavaScript, NLP, Matplotlib",5,Data Analyst,Tier 1,"Telugu, Hindi, Tamil",Mumbai,0
+Candidate_17,Bachelor's,6.2,"Java, Spark, Keras, JavaScript, TensorFlow, NLP",1,ML Engineer,Tier 3,Telugu,Hyderabad,1
+Candidate_18,Bachelor's,7.1,"Matplotlib, SQL, TensorFlow, Flask",4,Backend Developer,Tier 1,English,Bangalore,1
+Candidate_19,Master's,0.1,"Python, Seaborn, C++, TensorFlow",0,Backend Developer,Tier 3,"Tamil, Hindi, English",Pune,1
+Candidate_20,Bachelor's,3.0,"TensorFlow, Flask, Java, Spark",0,Backend Developer,Tier 3,"English, Kannada, Hindi",Delhi,0
+Candidate_21,Bachelor's,1.1,"Flask, React, C++, Seaborn, NumPy",2,Backend Developer,Tier 2,Telugu,Bangalore,0
+Candidate_22,Master's,9.6,"Node.js, Keras, TensorFlow",2,ML Engineer,Tier 1,"English, Hindi",Pune,1
+Candidate_23,PhD,6.3,"SQL, Deep Learning, NLP",3,Data Analyst,Tier 1,Kannada,Pune,0
+Candidate_24,Master's,9.3,"AWS, Python, Seaborn, Spark",4,Data Analyst,Tier 1,"English, Hindi",Bangalore,1
+Candidate_25,Master's,1.4,"JavaScript, Flask, Spark",3,Backend Developer,Tier 2,"Kannada, Tamil, Hindi",Pune,1
+Candidate_26,Master's,4.4,"Node.js, Flask, React, AWS, Spark, Matplotlib",0,Data Analyst,Tier 3,"Hindi, Kannada",Pune,1
+Candidate_27,Master's,4.3,"Keras, Flask, Deep Learning, SQL, TensorFlow, Node.js",1,Data Analyst,Tier 3,Telugu,Hyderabad,0
+Candidate_28,Bachelor's,9.6,"Spark, Keras, Machine Learning, Matplotlib, NLP",3,Data Scientist,Tier 2,"Hindi, Tamil",Hyderabad,0
+Candidate_29,Bachelor's,2.2,"NLP, JavaScript, Deep Learning, SQL, Python",2,Data Scientist,Tier 1,"Kannada, Tamil",Hyderabad,1
+Candidate_30,PhD,0.7,"AWS, Node.js, Matplotlib, Spark, SQL",4,Frontend Developer,Tier 3,Kannada,Pune,1
+Candidate_31,Master's,6.8,"Deep Learning, AWS, Node.js, Seaborn, Java, TensorFlow",3,ML Engineer,Tier 2,"English, Kannada",Mumbai,0
+Candidate_32,Bachelor's,6.0,"Django, Spark, Python, Machine Learning, Seaborn, Deep Learning",4,Data Scientist,Tier 2,Telugu,Bangalore,1
+Candidate_33,PhD,9.2,"Deep Learning, Python, C++",3,Data Scientist,Tier 2,"Tamil, Kannada, Hindi",Chennai,1
+Candidate_34,Master's,0.8,"NumPy, Java, TensorFlow, Machine Learning, Pandas",3,Data Scientist,Tier 3,English,Hyderabad,1
+Candidate_35,Bachelor's,8.3,"SQL, Deep Learning, Keras, Django",1,Data Scientist,Tier 2,"English, Kannada, Hindi",Bangalore,0
+Candidate_36,Bachelor's,0.5,"C++, Flask, Deep Learning, TensorFlow, Spark",5,Backend Developer,Tier 3,"English, Hindi",Chennai,1
+Candidate_37,Bachelor's,7.5,"Pandas, SQL, Matplotlib, Seaborn, Django, Machine Learning",3,ML Engineer,Tier 2,"Telugu, Hindi, English",Chennai,1
+Candidate_38,Master's,7.1,"Seaborn, Django, Node.js, C++, Matplotlib",3,Data Scientist,Tier 3,Telugu,Mumbai,0
+Candidate_39,Bachelor's,4.9,"Node.js, Spark, Matplotlib, Seaborn, Deep Learning",2,ML Engineer,Tier 3,Hindi,Hyderabad,0
+Candidate_40,Master's,3.9,"AWS, Matplotlib, Node.js, TensorFlow, Seaborn, Java",2,ML Engineer,Tier 2,"English, Hindi, Telugu",Bangalore,0
+Candidate_41,PhD,1.1,"Pandas, React, Flask",0,ML Engineer,Tier 2,"Tamil, English",Delhi,0
+Candidate_42,Bachelor's,3.5,"JavaScript, TensorFlow, Matplotlib, Keras",4,Frontend Developer,Tier 2,"English, Kannada",Pune,0
+Candidate_43,Master's,7.3,"Node.js, Machine Learning, AWS, TensorFlow, React, Spark",2,Data Analyst,Tier 3,"English, Kannada",Pune,0
+Candidate_44,Bachelor's,9.6,"SQL, Java, Spark, Flask",1,Data Scientist,Tier 2,Kannada,Pune,0
+Candidate_45,PhD,4.0,"SQL, Django, Flask, NumPy, Node.js, C++",1,Frontend Developer,Tier 3,"Tamil, English, Telugu",Hyderabad,0
+Candidate_46,PhD,9.1,"Machine Learning, Django, React, Deep Learning, C++, NumPy",1,Frontend Developer,Tier 1,Telugu,Mumbai,1
+Candidate_47,Master's,0.2,"C++, React, Python, NLP, NumPy",4,Data Scientist,Tier 1,"English, Kannada",Bangalore,0
+Candidate_48,PhD,6.8,"Django, Matplotlib, Spark, React, JavaScript",0,Data Scientist,Tier 3,"Telugu, Kannada",Pune,0
+Candidate_49,Master's,9.9,"NumPy, Flask, NLP, Pandas, Python",2,Frontend Developer,Tier 3,"Kannada, Telugu, English",Chennai,1
+Candidate_50,PhD,5.2,"JavaScript, Keras, Django",5,Backend Developer,Tier 1,Kannada,Pune,0
+Candidate_51,PhD,9.7,"Node.js, C++, AWS, TensorFlow, SQL",2,Data Analyst,Tier 2,"Hindi, Tamil, Telugu",Chennai,1
+Candidate_52,Master's,3.9,"Flask, Machine Learning, Node.js, Java, Deep Learning, Keras",4,Data Scientist,Tier 2,"Tamil, Kannada, English",Bangalore,0
+Candidate_53,Master's,9.3,"Pandas, JavaScript, Matplotlib, Machine Learning",4,Data Analyst,Tier 2,"Tamil, English",Chennai,0
+Candidate_54,Bachelor's,4.5,"Machine Learning, Spark, SQL, Java",3,Frontend Developer,Tier 2,"English, Kannada, Hindi",Hyderabad,0
+Candidate_55,Master's,8.8,"C++, Flask, JavaScript, Node.js",3,Data Analyst,Tier 2,English,Mumbai,1
+Candidate_56,Master's,2.5,"Keras, TensorFlow, SQL, Flask, Machine Learning, NumPy",2,Backend Developer,Tier 3,"Kannada, Hindi",Pune,0
+Candidate_57,Bachelor's,2.5,"Seaborn, Node.js, Machine Learning, AWS, C++, JavaScript",4,ML Engineer,Tier 2,"English, Hindi",Delhi,0
+Candidate_58,Master's,6.9,"Pandas, NLP, Keras, AWS, Seaborn",3,ML Engineer,Tier 3,Telugu,Bangalore,0
+Candidate_59,Bachelor's,6.2,"Django, Spark, Matplotlib, NLP, JavaScript",4,Data Analyst,Tier 2,Telugu,Hyderabad,1
+Candidate_60,Master's,6.7,"Matplotlib, Pandas, Java, C++, Seaborn, JavaScript",5,Data Scientist,Tier 1,"Kannada, Telugu",Pune,0
+Candidate_61,Master's,8.6,"Spark, Matplotlib, Java",5,Backend Developer,Tier 3,"Telugu, Hindi, English",Pune,0
+Candidate_62,PhD,8.5,"Machine Learning, Python, NumPy, Node.js, SQL",0,Data Scientist,Tier 1,"English, Hindi, Kannada",Bangalore,0
+Candidate_63,Master's,0.2,"TensorFlow, Java, SQL, Machine Learning, AWS, Django",1,Backend Developer,Tier 3,"Kannada, Telugu",Pune,1
+Candidate_64,PhD,1.2,"Python, React, JavaScript, Django",1,Data Analyst,Tier 3,Telugu,Mumbai,1
+Candidate_65,Master's,2.9,"Spark, NumPy, NLP",5,Frontend Developer,Tier 3,Telugu,Mumbai,0
+Candidate_66,Master's,1.5,"Pandas, SQL, TensorFlow, Python, Machine Learning",0,Data Analyst,Tier 2,Telugu,Pune,0
+Candidate_67,Master's,2.8,"NLP, Matplotlib, Spark, Node.js",2,Data Analyst,Tier 1,Hindi,Chennai,0
+Candidate_68,PhD,7.2,"Pandas, JavaScript, Flask, Machine Learning, TensorFlow",0,ML Engineer,Tier 2,"Hindi, Tamil, English",Pune,0
+Candidate_69,Master's,5.9,"Spark, TensorFlow, C++, Java, Python",5,Backend Developer,Tier 3,Telugu,Pune,0
+Candidate_70,Master's,3.2,"Django, SQL, React, TensorFlow",3,Data Scientist,Tier 2,English,Pune,0
+Candidate_71,Bachelor's,4.4,"AWS, Python, React, Deep Learning, SQL",5,ML Engineer,Tier 3,"Kannada, Hindi, English",Chennai,0
+Candidate_72,Master's,4.4,"Django, Node.js, React, Keras, Spark",0,Data Analyst,Tier 3,Hindi,Bangalore,0
+Candidate_73,Bachelor's,8.9,"Keras, Spark, Seaborn, C++, Deep Learning",1,Data Analyst,Tier 1,"Telugu, Tamil, Hindi",Delhi,0
+Candidate_74,PhD,8.5,"Pandas, Keras, TensorFlow",0,Data Analyst,Tier 3,"English, Kannada",Mumbai,0
+Candidate_75,Bachelor's,0.5,"Python, Django, Machine Learning, Flask, TensorFlow",5,Frontend Developer,Tier 1,"English, Hindi",Delhi,0
+Candidate_76,PhD,5.0,"AWS, Java, Seaborn, SQL, NumPy, Pandas",2,Data Scientist,Tier 2,"Hindi, Tamil",Bangalore,0
+Candidate_77,Bachelor's,2.0,"Java, Django, NumPy, C++, AWS",2,Data Scientist,Tier 3,"Kannada, English, Tamil",Mumbai,1
+Candidate_78,Bachelor's,2.7,"SQL, Java, NumPy",4,Backend Developer,Tier 2,"Tamil, Hindi",Bangalore,0
+Candidate_79,Bachelor's,0.3,"Seaborn, TensorFlow, Python, NumPy",0,ML Engineer,Tier 3,Telugu,Pune,1
+Candidate_80,Master's,5.5,"Pandas, SQL, NLP",2,Backend Developer,Tier 1,Hindi,Bangalore,0
+Candidate_81,PhD,0.1,"Seaborn, Spark, Java, Python, Django, Keras",0,Data Scientist,Tier 2,Tamil,Bangalore,0
+Candidate_82,Master's,3.5,"Machine Learning, JavaScript, TensorFlow, NumPy",5,Data Scientist,Tier 1,"Kannada, Hindi",Mumbai,0
+Candidate_83,PhD,7.4,"Django, Pandas, Machine Learning, NLP, Seaborn",5,Backend Developer,Tier 2,"Kannada, English",Bangalore,0
+Candidate_84,Master's,9.0,"Flask, C++, Node.js, JavaScript, Django, Matplotlib",5,Data Analyst,Tier 2,"Hindi, English, Telugu",Pune,0
+Candidate_85,Master's,6.5,"SQL, Python, NumPy, Java, Flask, JavaScript",4,ML Engineer,Tier 1,Tamil,Delhi,0
+Candidate_86,Master's,5.0,"TensorFlow, Pandas, Java, Django, Node.js, NumPy",1,ML Engineer,Tier 3,"English, Tamil",Bangalore,0
+Candidate_87,PhD,7.5,"Flask, Spark, Node.js, Python, Deep Learning",5,Data Analyst,Tier 2,"English, Kannada, Tamil",Mumbai,0
+Candidate_88,PhD,9.3,"Seaborn, Pandas, Keras, Matplotlib, Flask",1,ML Engineer,Tier 1,English,Chennai,0
+Candidate_89,PhD,9.5,"Django, Seaborn, Machine Learning",2,Data Analyst,Tier 3,"Tamil, Kannada",Pune,0
+Candidate_90,Master's,7.8,"SQL, Machine Learning, Deep Learning",2,Backend Developer,Tier 1,"English, Telugu",Bangalore,0
+Candidate_91,Master's,4.8,"Keras, Java, C++, Flask",4,Data Analyst,Tier 1,"Hindi, Tamil",Chennai,0
+Candidate_92,Master's,8.7,"Django, React, JavaScript, Java",1,Data Scientist,Tier 1,"Kannada, Telugu, Tamil",Chennai,0
+Candidate_93,Bachelor's,5.5,"Java, Flask, Spark, Python",5,Frontend Developer,Tier 1,"Hindi, Tamil, English",Bangalore,0
+Candidate_94,PhD,4.4,"Django, Node.js, Deep Learning",4,Frontend Developer,Tier 3,"English, Telugu",Chennai,1
+Candidate_95,Bachelor's,0.2,"Deep Learning, Keras, NLP, NumPy, Machine Learning",4,Data Scientist,Tier 1,"Hindi, English",Bangalore,0
+Candidate_96,PhD,2.1,"Matplotlib, AWS, NLP, Node.js, TensorFlow",4,Data Scientist,Tier 1,"English, Kannada",Hyderabad,0
+Candidate_97,PhD,5.0,"Seaborn, SQL, Matplotlib, Java, NumPy, Deep Learning",4,Data Analyst,Tier 2,Kannada,Chennai,0
+Candidate_98,Bachelor's,3.3,"Django, Pandas, Deep Learning, SQL, AWS",3,ML Engineer,Tier 2,"Kannada, English, Hindi",Pune,0
+Candidate_99,Master's,6.1,"Keras, Django, JavaScript, Spark, AWS, Deep Learning",4,Backend Developer,Tier 2,"Tamil, English",Bangalore,0
+Candidate_100,Master's,4.2,"Spark, NumPy, Node.js, React",3,Data Scientist,Tier 2,"Kannada, Telugu",Pune,0
+Candidate_101,Bachelor's,1.3,"Keras, Python, React",0,Backend Developer,Tier 3,"Telugu, Tamil",Hyderabad,0
+Candidate_102,Master's,7.0,"Machine Learning, SQL, Deep Learning, Seaborn",4,Data Analyst,Tier 3,English,Pune,0
+Candidate_103,Master's,9.5,"Pandas, Keras, Machine Learning, NumPy, JavaScript, NLP",1,Data Analyst,Tier 3,Hindi,Bangalore,1
+Candidate_104,PhD,5.9,"TensorFlow, Deep Learning, Pandas, React, Flask, AWS",0,Backend Developer,Tier 2,Kannada,Delhi,0
+Candidate_105,PhD,5.8,"Machine Learning, Deep Learning, TensorFlow, Spark, React, C++",0,Backend Developer,Tier 2,"Kannada, Tamil, English",Chennai,0
+Candidate_106,Master's,1.7,"Flask, NumPy, Pandas, Django, React",2,Frontend Developer,Tier 1,Tamil,Hyderabad,1
+Candidate_107,Bachelor's,2.1,"Python, Java, Seaborn, Node.js",0,ML Engineer,Tier 1,"Hindi, Tamil",Delhi,1
+Candidate_108,Master's,7.3,"Pandas, Machine Learning, SQL, Seaborn",3,ML Engineer,Tier 1,Tamil,Pune,0
+Candidate_109,PhD,1.2,"C++, Django, AWS, Deep Learning, React",4,Frontend Developer,Tier 3,"Kannada, English, Tamil",Pune,0
+Candidate_110,Master's,8.9,"Keras, SQL, Matplotlib",2,Backend Developer,Tier 3,"English, Kannada, Telugu",Hyderabad,1
+Candidate_111,PhD,3.8,"Node.js, Flask, NumPy, JavaScript",3,Backend Developer,Tier 2,Hindi,Pune,1
+Candidate_112,Bachelor's,9.5,"Python, Keras, C++, NumPy",4,Data Analyst,Tier 1,Telugu,Pune,0
+Candidate_113,Master's,6.1,"NLP, NumPy, Matplotlib, React",2,Backend Developer,Tier 3,"Telugu, Kannada",Delhi,1
+Candidate_114,Master's,5.4,"SQL, Django, AWS, Machine Learning, Keras",3,Frontend Developer,Tier 2,Hindi,Mumbai,0
+Candidate_115,Master's,6.6,"TensorFlow, JavaScript, NumPy, Seaborn, Keras",5,Backend Developer,Tier 2,"Hindi, Telugu, English",Delhi,0
+Candidate_116,Master's,2.6,"Keras, TensorFlow, Pandas, AWS, Spark",2,Data Scientist,Tier 3,Tamil,Pune,0
+Candidate_117,Bachelor's,3.1,"Django, Spark, React, Node.js, SQL, Machine Learning",4,Frontend Developer,Tier 3,English,Mumbai,0
+Candidate_118,Bachelor's,7.8,"NLP, Seaborn, C++, Java, Node.js",2,Data Analyst,Tier 1,"Telugu, Hindi, Kannada",Hyderabad,0
+Candidate_119,Master's,3.3,"Seaborn, Django, Python, Java",0,Data Analyst,Tier 2,"English, Hindi",Chennai,0
+Candidate_120,Master's,0.2,"Java, Flask, SQL, TensorFlow",5,ML Engineer,Tier 3,"English, Kannada",Bangalore,0
+Candidate_121,PhD,7.2,"Python, AWS, Seaborn, JavaScript, SQL, NLP",4,ML Engineer,Tier 3,"Tamil, Telugu",Delhi,0
+Candidate_122,PhD,0.2,"Pandas, Node.js, SQL, Flask, NumPy",3,Frontend Developer,Tier 1,"Kannada, Tamil",Mumbai,0
+Candidate_123,Master's,9.1,"TensorFlow, Python, NumPy, AWS",2,Data Analyst,Tier 2,Kannada,Bangalore,1
+Candidate_124,Master's,7.7,"NLP, NumPy, SQL, Machine Learning, Deep Learning, C++",5,Data Scientist,Tier 1,Telugu,Delhi,0
+Candidate_125,Bachelor's,0.8,"AWS, NumPy, Matplotlib, Django, Java, TensorFlow",3,Frontend Developer,Tier 3,"Hindi, English",Chennai,0
+Candidate_126,PhD,5.7,"Python, Flask, Node.js, NumPy, Matplotlib, React",5,Backend Developer,Tier 3,"Kannada, English",Bangalore,0
+Candidate_127,Master's,7.0,"JavaScript, Python, React, Matplotlib, SQL, C++",1,ML Engineer,Tier 1,Telugu,Mumbai,1
+Candidate_128,Bachelor's,6.3,"JavaScript, Seaborn, Keras, TensorFlow, Python, AWS",0,ML Engineer,Tier 3,"Tamil, Kannada, Telugu",Chennai,1
+Candidate_129,PhD,6.5,"Machine Learning, Matplotlib, Node.js, NLP",4,Data Analyst,Tier 2,Tamil,Pune,0
+Candidate_130,PhD,10.0,"React, Matplotlib, NumPy, Python",2,ML Engineer,Tier 2,English,Chennai,0
+Candidate_131,PhD,1.9,"Seaborn, Pandas, Deep Learning",0,Data Scientist,Tier 3,English,Chennai,0
+Candidate_132,PhD,5.6,"NLP, Python, Node.js, Flask",2,ML Engineer,Tier 2,"Kannada, Telugu",Chennai,0
+Candidate_133,PhD,5.4,"C++, Spark, JavaScript, SQL",5,Backend Developer,Tier 2,"English, Hindi, Tamil",Delhi,0
+Candidate_134,PhD,7.7,"Spark, AWS, Flask, NumPy, Node.js",1,Data Scientist,Tier 1,Kannada,Hyderabad,1
+Candidate_135,Bachelor's,1.6,"Deep Learning, C++, Java",1,Data Analyst,Tier 2,"Telugu, Tamil, Hindi",Delhi,1
+Candidate_136,Bachelor's,2.4,"TensorFlow, AWS, NumPy, NLP, Machine Learning, Keras",4,Frontend Developer,Tier 3,Hindi,Pune,0
+Candidate_137,Master's,7.1,"Seaborn, Pandas, NumPy, Flask, SQL, Matplotlib",3,Frontend Developer,Tier 2,"Tamil, Telugu",Hyderabad,0
+Candidate_138,PhD,5.6,"TensorFlow, NLP, React, Python",1,ML Engineer,Tier 1,Kannada,Chennai,0
+Candidate_139,Master's,0.9,"Flask, Matplotlib, Python, AWS, Java",5,Frontend Developer,Tier 2,Tamil,Chennai,0
+Candidate_140,PhD,0.6,"NumPy, Pandas, AWS",1,ML Engineer,Tier 3,"English, Kannada, Hindi",Bangalore,1
+Candidate_141,PhD,8.9,"React, JavaScript, C++, Keras",0,Data Scientist,Tier 3,Tamil,Bangalore,0
+Candidate_142,PhD,2.8,"AWS, Python, Deep Learning, Seaborn",5,Backend Developer,Tier 3,"Tamil, English, Kannada",Mumbai,1
+Candidate_143,Master's,8.4,"C++, Node.js, Matplotlib",1,Frontend Developer,Tier 2,Tamil,Delhi,0
+Candidate_144,Bachelor's,6.9,"React, Python, Machine Learning, Flask, NLP, Java",2,ML Engineer,Tier 3,Kannada,Mumbai,0
+Candidate_145,Bachelor's,1.2,"React, C++, AWS",2,Data Analyst,Tier 1,English,Hyderabad,0
+Candidate_146,PhD,3.7,"Django, Machine Learning, Node.js",5,Backend Developer,Tier 2,"Tamil, Hindi, Telugu",Hyderabad,0
+Candidate_147,PhD,3.2,"Node.js, Flask, AWS, React",2,Frontend Developer,Tier 2,Telugu,Chennai,0
+Candidate_148,PhD,3.6,"React, Java, TensorFlow, JavaScript, Node.js, NLP",3,Frontend Developer,Tier 3,"Hindi, Tamil",Pune,0
+Candidate_149,PhD,5.5,"C++, Matplotlib, Node.js, Flask, Seaborn",3,Frontend Developer,Tier 1,"Hindi, Telugu, English",Mumbai,0
+Candidate_150,PhD,3.2,"Spark, Java, Deep Learning, SQL, NLP, Keras",0,Backend Developer,Tier 2,"English, Hindi",Chennai,0
+Candidate_151,Master's,1.6,"Python, Pandas, Spark, Keras",5,ML Engineer,Tier 1,"Tamil, Kannada",Mumbai,0
+Candidate_152,PhD,4.0,"Django, Matplotlib, SQL",3,ML Engineer,Tier 3,"Kannada, English",Hyderabad,1
+Candidate_153,PhD,1.7,"AWS, Matplotlib, Node.js, JavaScript, Spark",5,Frontend Developer,Tier 1,Tamil,Hyderabad,1
+Candidate_154,Master's,4.6,"Pandas, Python, JavaScript, Node.js",1,Frontend Developer,Tier 1,Hindi,Mumbai,0
+Candidate_155,Bachelor's,7.2,"Seaborn, NLP, Python, NumPy",1,Frontend Developer,Tier 3,"Telugu, Hindi, Kannada",Pune,0
+Candidate_156,Master's,8.3,"SQL, TensorFlow, JavaScript, Deep Learning",1,ML Engineer,Tier 2,"Telugu, Kannada, Tamil",Bangalore,1
+Candidate_157,Master's,4.9,"Django, React, AWS",2,Frontend Developer,Tier 1,"Kannada, Telugu, English",Pune,0
+Candidate_158,Bachelor's,1.4,"Java, Node.js, Machine Learning, Keras",0,Frontend Developer,Tier 1,"Hindi, Tamil",Chennai,0
+Candidate_159,Master's,6.8,"Java, Flask, Keras, React, Matplotlib, Node.js",5,Data Analyst,Tier 2,Tamil,Pune,1
+Candidate_160,PhD,1.0,"Python, React, Deep Learning, JavaScript, TensorFlow, Seaborn",3,Data Scientist,Tier 3,"Telugu, English",Chennai,0
+Candidate_161,Master's,2.6,"AWS, Pandas, Matplotlib",2,ML Engineer,Tier 3,"English, Hindi",Mumbai,1
+Candidate_162,PhD,7.6,"JavaScript, Python, Deep Learning",5,Data Analyst,Tier 3,"Telugu, Kannada, English",Mumbai,0
+Candidate_163,Master's,0.4,"Pandas, NLP, Java, Spark, Flask, Node.js",2,Frontend Developer,Tier 1,"Tamil, Hindi, Telugu",Chennai,1
+Candidate_164,Master's,0.2,"Machine Learning, Java, SQL, NLP, Spark",4,ML Engineer,Tier 1,"English, Hindi, Tamil",Hyderabad,0
+Candidate_165,PhD,4.9,"NLP, Pandas, Django, Matplotlib, Spark",0,Data Scientist,Tier 1,Kannada,Pune,0
+Candidate_166,PhD,8.1,"TensorFlow, Matplotlib, C++",2,Frontend Developer,Tier 1,Tamil,Pune,0
+Candidate_167,PhD,7.4,"Keras, SQL, Node.js",4,Frontend Developer,Tier 3,"Kannada, Hindi, Tamil",Bangalore,1
+Candidate_168,Master's,5.7,"Keras, Flask, React, Spark",4,Data Scientist,Tier 1,"Tamil, Kannada, English",Mumbai,0
+Candidate_169,Bachelor's,0.2,"JavaScript, Flask, Spark, Pandas, Deep Learning, Java",1,Backend Developer,Tier 2,English,Delhi,0
+Candidate_170,Master's,7.3,"Spark, Keras, Deep Learning, TensorFlow, NumPy, Pandas",4,Data Scientist,Tier 2,"Telugu, Hindi",Mumbai,0
+Candidate_171,PhD,5.0,"TensorFlow, Flask, AWS, Java",5,Data Analyst,Tier 3,"Kannada, Tamil",Bangalore,1
+Candidate_172,Bachelor's,7.5,"Machine Learning, AWS, Deep Learning, Pandas, Matplotlib",0,Backend Developer,Tier 1,"Tamil, Telugu, Hindi",Bangalore,0
+Candidate_173,Master's,5.6,"Django, TensorFlow, Seaborn, JavaScript, Spark, Machine Learning",0,Data Scientist,Tier 1,Kannada,Chennai,0
+Candidate_174,Bachelor's,8.6,"Seaborn, Keras, NLP, Node.js, Spark, Pandas",4,Frontend Developer,Tier 2,"English, Tamil, Telugu",Delhi,0
+Candidate_175,PhD,3.9,"NumPy, Pandas, Machine Learning, Spark, React, Matplotlib",1,ML Engineer,Tier 3,"Telugu, Hindi",Pune,0
+Candidate_176,Bachelor's,3.8,"Keras, AWS, Node.js, Python, Django, C++",4,Data Analyst,Tier 1,"Kannada, Telugu, English",Chennai,0
+Candidate_177,PhD,2.5,"C++, NLP, Python, TensorFlow, Node.js, Keras",1,ML Engineer,Tier 1,Telugu,Pune,0
+Candidate_178,Bachelor's,3.2,"C++, Python, Node.js, Pandas, Matplotlib",1,Data Analyst,Tier 1,Telugu,Delhi,0
+Candidate_179,PhD,1.1,"React, Django, Pandas, C++, Python",5,Data Scientist,Tier 2,"Telugu, Kannada, English",Mumbai,0
+Candidate_180,Master's,8.8,"AWS, Seaborn, Python",3,ML Engineer,Tier 1,"Telugu, English",Chennai,1
+Candidate_181,Master's,7.2,"Keras, SQL, Spark, JavaScript, Flask, TensorFlow",4,Data Scientist,Tier 2,"Tamil, Hindi",Hyderabad,1
+Candidate_182,Master's,2.1,"Deep Learning, C++, Pandas",5,ML Engineer,Tier 2,"Tamil, Telugu",Chennai,1
+Candidate_183,Master's,7.0,"AWS, Java, JavaScript, Seaborn, Machine Learning",0,Backend Developer,Tier 3,"Tamil, Kannada",Pune,1
+Candidate_184,Bachelor's,5.7,"NumPy, Pandas, Machine Learning, JavaScript, Matplotlib",1,Data Analyst,Tier 2,"Hindi, English",Hyderabad,0
+Candidate_185,PhD,3.0,"Flask, NLP, Matplotlib",5,Data Analyst,Tier 3,Tamil,Pune,0
+Candidate_186,Bachelor's,5.9,"Matplotlib, NLP, TensorFlow, NumPy, React",4,ML Engineer,Tier 2,English,Chennai,0
+Candidate_187,Bachelor's,3.1,"JavaScript, Flask, SQL, Node.js",2,ML Engineer,Tier 3,Kannada,Hyderabad,0
+Candidate_188,PhD,2.0,"TensorFlow, SQL, Deep Learning",4,Data Scientist,Tier 3,"Kannada, English, Telugu",Mumbai,0
+Candidate_189,PhD,5.2,"Flask, React, Django, Seaborn",5,ML Engineer,Tier 3,"Kannada, Tamil",Bangalore,0
+Candidate_190,PhD,1.9,"JavaScript, Matplotlib, Machine Learning",0,Backend Developer,Tier 3,"Telugu, Kannada, English",Delhi,0
+Candidate_191,Bachelor's,3.2,"Node.js, NumPy, SQL",3,Data Scientist,Tier 1,"Kannada, Hindi, Tamil",Mumbai,0
+Candidate_192,Master's,5.7,"SQL, Pandas, Node.js, Spark, Python, JavaScript",3,Data Analyst,Tier 3,Tamil,Delhi,0
+Candidate_193,Master's,5.1,"Flask, Seaborn, Django, Deep Learning, AWS",5,Data Analyst,Tier 3,"English, Hindi",Mumbai,0
+Candidate_194,Bachelor's,3.2,"NumPy, React, Spark, C++, Keras, Deep Learning",2,Data Scientist,Tier 2,"Kannada, Hindi",Hyderabad,1
+Candidate_195,Bachelor's,7.6,"Machine Learning, Matplotlib, AWS, Deep Learning",4,ML Engineer,Tier 2,"Hindi, Kannada, Telugu",Hyderabad,0
+Candidate_196,Bachelor's,7.7,"React, AWS, Deep Learning, Matplotlib",3,Data Analyst,Tier 3,"Hindi, Tamil",Mumbai,1
+Candidate_197,Master's,3.7,"Deep Learning, NLP, AWS, Pandas, Machine Learning",3,Data Analyst,Tier 2,Telugu,Bangalore,0
+Candidate_198,Master's,3.5,"Pandas, Flask, Python, Node.js",1,Frontend Developer,Tier 2,Tamil,Mumbai,0
+Candidate_199,Master's,3.3,"Node.js, Matplotlib, Pandas, Flask",0,Data Scientist,Tier 2,"Telugu, Kannada, English",Pune,0
+Candidate_200,Master's,6.9,"Django, Flask, TensorFlow, Java, SQL, Python",5,Frontend Developer,Tier 2,"Tamil, English",Mumbai,0
+Candidate_201,Bachelor's,8.8,"Deep Learning, Keras, JavaScript",1,Data Analyst,Tier 1,"English, Telugu, Kannada",Chennai,0
+Candidate_202,PhD,5.5,"Seaborn, Matplotlib, Machine Learning, Python, JavaScript",0,Frontend Developer,Tier 2,"Hindi, Kannada",Chennai,1
+Candidate_203,Master's,2.3,"Deep Learning, Node.js, Flask, Seaborn, Python",1,Data Scientist,Tier 2,"Telugu, English",Delhi,0
+Candidate_204,Bachelor's,9.1,"Python, Spark, Keras, Java, Deep Learning",4,ML Engineer,Tier 2,"English, Kannada, Tamil",Bangalore,0
+Candidate_205,PhD,7.8,"Matplotlib, C++, Pandas, Node.js",0,ML Engineer,Tier 2,"Hindi, Tamil",Bangalore,1
+Candidate_206,Bachelor's,6.5,"Pandas, Matplotlib, Keras, Python, TensorFlow",4,Frontend Developer,Tier 2,English,Hyderabad,0
+Candidate_207,Master's,4.3,"Django, Spark, Deep Learning, Pandas, Node.js",4,Frontend Developer,Tier 3,"Hindi, Kannada, English",Hyderabad,1
+Candidate_208,Master's,1.8,"Seaborn, Java, JavaScript",4,Frontend Developer,Tier 2,"Hindi, Kannada",Hyderabad,1
+Candidate_209,Master's,1.6,"Django, Node.js, NLP, Python, JavaScript",3,Data Scientist,Tier 2,Telugu,Pune,1
+Candidate_210,PhD,2.1,"Pandas, AWS, TensorFlow",1,Backend Developer,Tier 3,English,Hyderabad,1
+Candidate_211,PhD,9.1,"React, Node.js, SQL",3,Data Analyst,Tier 2,"Hindi, Kannada",Bangalore,0
+Candidate_212,PhD,3.6,"Matplotlib, SQL, Pandas, Python, AWS",3,ML Engineer,Tier 1,"Tamil, Kannada",Bangalore,0
+Candidate_213,Master's,9.5,"Django, C++, TensorFlow, NumPy, Python",2,Frontend Developer,Tier 1,Kannada,Bangalore,0
+Candidate_214,Bachelor's,5.2,"NumPy, Java, Spark, Node.js",5,Frontend Developer,Tier 2,Telugu,Hyderabad,0
+Candidate_215,Bachelor's,9.4,"React, NLP, SQL, AWS",0,ML Engineer,Tier 2,"Tamil, Kannada, Telugu",Chennai,0
+Candidate_216,Bachelor's,7.8,"Python, NumPy, Java, JavaScript, Keras",0,Data Analyst,Tier 3,"Kannada, Hindi, English",Bangalore,0
+Candidate_217,Bachelor's,3.5,"C++, Keras, AWS, SQL",3,ML Engineer,Tier 3,"Hindi, English",Chennai,1
+Candidate_218,Master's,4.7,"JavaScript, Deep Learning, Seaborn, NLP, SQL",3,ML Engineer,Tier 3,Hindi,Hyderabad,1
+Candidate_219,PhD,1.3,"Django, C++, SQL, TensorFlow",2,Data Analyst,Tier 1,"Hindi, Tamil",Chennai,0
+Candidate_220,PhD,9.7,"JavaScript, Deep Learning, Keras, NLP, AWS",4,Data Scientist,Tier 2,"English, Hindi, Kannada",Bangalore,1
+Candidate_221,Bachelor's,6.3,"React, TensorFlow, Deep Learning, Python",4,ML Engineer,Tier 2,Kannada,Mumbai,0
+Candidate_222,Master's,9.9,"AWS, Flask, Seaborn, Pandas, SQL, NLP",2,Data Analyst,Tier 2,Tamil,Chennai,1
+Candidate_223,Master's,7.7,"SQL, Deep Learning, Matplotlib, Flask, C++, TensorFlow",2,ML Engineer,Tier 3,English,Hyderabad,0
+Candidate_224,Master's,8.3,"Seaborn, Machine Learning, JavaScript",2,Frontend Developer,Tier 3,Kannada,Hyderabad,0
+Candidate_225,Master's,8.2,"JavaScript, Django, Python, Node.js",5,Frontend Developer,Tier 1,"Kannada, English, Tamil",Chennai,0
+Candidate_226,PhD,2.3,"NLP, React, SQL, Spark",5,Data Analyst,Tier 3,Kannada,Delhi,0
+Candidate_227,Master's,8.6,"Java, TensorFlow, Machine Learning, Spark, Keras",3,ML Engineer,Tier 3,"English, Kannada",Chennai,0
+Candidate_228,PhD,5.6,"Node.js, C++, Java, Keras, JavaScript",1,ML Engineer,Tier 1,"Hindi, Telugu",Mumbai,1
+Candidate_229,PhD,1.9,"C++, Django, Flask, JavaScript, TensorFlow",0,Data Analyst,Tier 1,Telugu,Hyderabad,1
+Candidate_230,PhD,2.8,"Python, SQL, Matplotlib, Machine Learning, Spark",5,Data Analyst,Tier 3,"Tamil, English",Delhi,0
+Candidate_231,PhD,6.1,"C++, Deep Learning, Flask, Java",3,Frontend Developer,Tier 2,"Kannada, Hindi",Pune,0
+Candidate_232,PhD,8.7,"Machine Learning, Django, Matplotlib, SQL, C++, NLP",4,Data Analyst,Tier 1,"Telugu, Kannada, Hindi",Bangalore,1
+Candidate_233,PhD,1.1,"Flask, AWS, Matplotlib, Deep Learning, Keras",5,Frontend Developer,Tier 1,English,Pune,1
+Candidate_234,Master's,2.4,"Django, Spark, Keras, Flask, SQL, TensorFlow",5,ML Engineer,Tier 3,"Kannada, Telugu",Bangalore,0
+Candidate_235,PhD,1.1,"Spark, SQL, AWS",1,Frontend Developer,Tier 3,"Telugu, Kannada, Tamil",Pune,0
+Candidate_236,Bachelor's,3.5,"Pandas, Spark, Matplotlib, Java, TensorFlow, Keras",5,ML Engineer,Tier 1,Kannada,Hyderabad,0
+Candidate_237,Bachelor's,6.3,"SQL, Machine Learning, Keras, Python, Pandas",2,Frontend Developer,Tier 2,"Hindi, Tamil",Mumbai,1
+Candidate_238,Bachelor's,3.2,"React, Node.js, Seaborn, Deep Learning, TensorFlow",2,Backend Developer,Tier 1,"Tamil, Hindi",Chennai,1
+Candidate_239,Master's,1.0,"TensorFlow, Deep Learning, NumPy",5,Backend Developer,Tier 1,"Telugu, Tamil",Chennai,1
+Candidate_240,Master's,9.0,"React, Deep Learning, Python, SQL",1,Data Analyst,Tier 3,"Kannada, Tamil, Telugu",Delhi,0
+Candidate_241,Bachelor's,4.0,"Node.js, C++, Spark",5,Data Analyst,Tier 3,"Tamil, Hindi",Pune,1
+Candidate_242,Master's,5.3,"JavaScript, TensorFlow, SQL, Machine Learning, C++, React",1,ML Engineer,Tier 1,"Hindi, Tamil, English",Mumbai,1
+Candidate_243,Bachelor's,8.3,"Django, AWS, Pandas, Node.js",1,Data Scientist,Tier 1,"Telugu, Kannada, Hindi",Delhi,0
+Candidate_244,PhD,10.0,"Keras, React, Matplotlib, TensorFlow",5,Data Analyst,Tier 2,"Tamil, Kannada, Hindi",Mumbai,1
+Candidate_245,Master's,3.6,"Deep Learning, Seaborn, NLP, C++",5,Backend Developer,Tier 3,Kannada,Delhi,0
+Candidate_246,Bachelor's,1.0,"Seaborn, Deep Learning, SQL, Django, NLP, NumPy",5,Data Analyst,Tier 1,"Tamil, English",Mumbai,1
+Candidate_247,PhD,4.4,"C++, React, Python, Pandas, Java, Matplotlib",2,ML Engineer,Tier 1,Tamil,Bangalore,1
+Candidate_248,PhD,2.8,"Python, NumPy, Keras, JavaScript, TensorFlow",1,ML Engineer,Tier 3,"Tamil, Kannada, English",Delhi,0
+Candidate_249,PhD,9.5,"Seaborn, Spark, Deep Learning, Python",4,Data Scientist,Tier 2,"English, Kannada, Tamil",Bangalore,1
+Candidate_250,PhD,4.1,"Node.js, Django, React, Seaborn",0,ML Engineer,Tier 2,English,Mumbai,1
+Candidate_251,PhD,7.0,"Keras, TensorFlow, NumPy, JavaScript, Deep Learning, C++",0,Frontend Developer,Tier 3,"Tamil, Telugu",Bangalore,0
+Candidate_252,Bachelor's,2.6,"Django, NLP, C++, Deep Learning",3,Data Scientist,Tier 1,"English, Kannada, Tamil",Chennai,0
+Candidate_253,Bachelor's,1.7,"Python, Deep Learning, TensorFlow",2,Data Scientist,Tier 3,"Tamil, English, Telugu",Hyderabad,1
+Candidate_254,PhD,6.2,"Seaborn, Node.js, NLP, SQL",5,Backend Developer,Tier 3,Telugu,Pune,0
+Candidate_255,Bachelor's,5.1,"Python, Java, Seaborn, SQL, Machine Learning, Pandas",2,Data Scientist,Tier 1,"Kannada, Hindi, English",Mumbai,0
+Candidate_256,Bachelor's,6.0,"Pandas, Seaborn, TensorFlow, AWS, SQL",5,Data Analyst,Tier 1,"Hindi, Kannada",Mumbai,0
+Candidate_257,Bachelor's,7.9,"NLP, Java, NumPy",5,Data Analyst,Tier 3,Tamil,Delhi,0
+Candidate_258,PhD,5.8,"Seaborn, Node.js, Machine Learning, Deep Learning, JavaScript, Django",1,Frontend Developer,Tier 2,"Telugu, Kannada",Bangalore,1
+Candidate_259,Master's,0.2,"Deep Learning, Seaborn, NumPy",4,ML Engineer,Tier 2,"English, Kannada, Telugu",Bangalore,0
+Candidate_260,Master's,8.9,"Deep Learning, Java, Seaborn, Python",0,Frontend Developer,Tier 2,"English, Telugu, Tamil",Delhi,0
+Candidate_261,PhD,8.5,"Java, Node.js, SQL, Pandas, React",1,Frontend Developer,Tier 1,"Hindi, English",Bangalore,0
+Candidate_262,Master's,2.1,"Machine Learning, Python, Django",5,Frontend Developer,Tier 2,Tamil,Mumbai,1
+Candidate_263,Bachelor's,1.6,"AWS, Flask, Keras, Machine Learning",1,Frontend Developer,Tier 1,"Telugu, Kannada",Chennai,0
+Candidate_264,Bachelor's,8.2,"Flask, Python, TensorFlow, Java, Pandas, C++",5,Backend Developer,Tier 1,Hindi,Mumbai,0
+Candidate_265,Bachelor's,1.8,"React, Flask, TensorFlow, Machine Learning, Matplotlib",2,Data Analyst,Tier 1,"Hindi, English",Delhi,0
+Candidate_266,Master's,2.0,"NumPy, AWS, SQL",0,Backend Developer,Tier 2,English,Pune,0
+Candidate_267,Bachelor's,2.4,"Pandas, JavaScript, AWS, Java, Node.js",1,Frontend Developer,Tier 1,Tamil,Chennai,0
+Candidate_268,Bachelor's,3.5,"Java, TensorFlow, Spark, JavaScript",2,Data Analyst,Tier 1,"Hindi, Tamil, Telugu",Pune,0
+Candidate_269,Master's,0.3,"C++, Django, Matplotlib, Machine Learning, React, AWS",4,Frontend Developer,Tier 3,Telugu,Delhi,0
+Candidate_270,PhD,0.2,"Deep Learning, NLP, Java, JavaScript",0,Backend Developer,Tier 1,"English, Telugu, Tamil",Bangalore,0
+Candidate_271,Bachelor's,7.6,"Spark, Seaborn, C++",0,ML Engineer,Tier 3,"Tamil, Telugu",Mumbai,1
+Candidate_272,PhD,2.4,"AWS, Flask, NLP, Pandas, NumPy, Matplotlib",1,ML Engineer,Tier 2,Hindi,Chennai,0
+Candidate_273,PhD,7.3,"Flask, React, NLP, Python, Keras, TensorFlow",2,Backend Developer,Tier 2,"Kannada, Hindi, Telugu",Hyderabad,0
+Candidate_274,PhD,3.5,"Keras, AWS, Pandas, Seaborn, Matplotlib, Node.js",3,Frontend Developer,Tier 3,"Hindi, Kannada",Hyderabad,0
+Candidate_275,Bachelor's,7.1,"AWS, NLP, Pandas, Keras",2,Frontend Developer,Tier 1,"English, Telugu",Chennai,0
+Candidate_276,PhD,4.1,"Node.js, Deep Learning, Seaborn, React",5,ML Engineer,Tier 2,Telugu,Bangalore,1
+Candidate_277,PhD,2.1,"Flask, Spark, JavaScript, TensorFlow",4,Backend Developer,Tier 2,"Hindi, Kannada",Mumbai,0
+Candidate_278,Master's,6.1,"SQL, C++, Spark",0,Data Scientist,Tier 1,"English, Tamil",Chennai,1
+Candidate_279,Bachelor's,7.4,"Machine Learning, C++, NLP, Deep Learning",4,ML Engineer,Tier 3,Tamil,Chennai,0
+Candidate_280,Bachelor's,8.0,"JavaScript, React, Keras, SQL",4,Data Analyst,Tier 3,"Telugu, Tamil, Kannada",Hyderabad,0
+Candidate_281,Bachelor's,6.6,"Pandas, SQL, Java, JavaScript",3,ML Engineer,Tier 1,Kannada,Pune,0
+Candidate_282,Master's,9.3,"Pandas, Python, NumPy, NLP",2,Data Scientist,Tier 1,Hindi,Delhi,1
+Candidate_283,Master's,6.8,"SQL, Node.js, Deep Learning, Machine Learning",5,Data Scientist,Tier 2,Kannada,Delhi,0
+Candidate_284,Master's,9.9,"Flask, Node.js, Matplotlib, AWS, Python",3,Frontend Developer,Tier 1,"Hindi, Tamil, Kannada",Mumbai,1
+Candidate_285,Master's,3.4,"Pandas, C++, Deep Learning, Java, JavaScript",4,Data Scientist,Tier 1,"Telugu, Hindi",Mumbai,1
+Candidate_286,Master's,3.9,"TensorFlow, Deep Learning, NLP, Matplotlib, Keras",3,Frontend Developer,Tier 2,"Tamil, Hindi, Telugu",Chennai,0
+Candidate_287,Master's,0.8,"C++, Deep Learning, Matplotlib, SQL, Python, TensorFlow",1,Data Scientist,Tier 1,"English, Hindi",Delhi,0
+Candidate_288,Bachelor's,7.8,"Python, AWS, Deep Learning",4,Data Scientist,Tier 3,"Tamil, English",Delhi,0
+Candidate_289,Bachelor's,0.6,"Node.js, C++, React, Spark",5,Data Scientist,Tier 3,Hindi,Bangalore,0
+Candidate_290,PhD,0.8,"Matplotlib, Node.js, NumPy, Spark, Seaborn",4,Backend Developer,Tier 3,"Kannada, English, Hindi",Hyderabad,0
+Candidate_291,PhD,0.1,"Node.js, Flask, JavaScript, AWS",5,Data Scientist,Tier 1,Hindi,Chennai,1
+Candidate_292,Bachelor's,1.6,"AWS, Keras, Matplotlib, Machine Learning, Node.js",3,Frontend Developer,Tier 3,Kannada,Bangalore,1
+Candidate_293,PhD,8.9,"Machine Learning, React, C++, Java, Seaborn",3,Frontend Developer,Tier 1,"Telugu, English, Tamil",Pune,1
+Candidate_294,Master's,0.1,"Deep Learning, Spark, NLP",5,Data Analyst,Tier 1,"Tamil, Kannada, Hindi",Chennai,0
+Candidate_295,PhD,8.1,"NumPy, Machine Learning, AWS, Deep Learning, Node.js",1,Data Analyst,Tier 3,"Telugu, Kannada",Mumbai,0
+Candidate_296,Master's,9.2,"Pandas, AWS, Spark, JavaScript, Matplotlib, NLP",3,ML Engineer,Tier 1,"Telugu, Hindi",Mumbai,1
+Candidate_297,Master's,0.1,"JavaScript, Spark, React, Node.js",0,Data Scientist,Tier 1,"Tamil, Hindi",Bangalore,0
+Candidate_298,Master's,3.9,"Seaborn, Flask, Django, Node.js, NumPy",4,ML Engineer,Tier 1,"English, Tamil",Bangalore,0
+Candidate_299,Bachelor's,9.5,"AWS, Machine Learning, JavaScript, Django, NumPy, TensorFlow",1,ML Engineer,Tier 2,"Hindi, Tamil, Telugu",Chennai,0
+Candidate_300,PhD,6.2,"AWS, JavaScript, Matplotlib",2,Frontend Developer,Tier 3,Tamil,Delhi,1
+Candidate_301,Master's,0.6,"NLP, Keras, Django, Node.js, Deep Learning, AWS",1,Frontend Developer,Tier 2,"Kannada, Tamil",Delhi,0
+Candidate_302,Master's,7.0,"Deep Learning, Spark, Django, Seaborn",1,ML Engineer,Tier 1,"Kannada, English",Mumbai,0
+Candidate_303,Bachelor's,6.2,"Matplotlib, NumPy, Pandas",4,Frontend Developer,Tier 2,Tamil,Pune,0
+Candidate_304,Bachelor's,3.6,"NumPy, Django, Spark",5,Data Scientist,Tier 3,"Kannada, Hindi",Chennai,0
+Candidate_305,Master's,4.8,"AWS, Seaborn, Node.js, Spark, SQL",2,Data Scientist,Tier 1,"Kannada, Tamil, English",Mumbai,1
+Candidate_306,Master's,7.0,"Machine Learning, Flask, Node.js",1,Frontend Developer,Tier 3,"Telugu, English, Hindi",Mumbai,0
+Candidate_307,Bachelor's,4.5,"Seaborn, React, Pandas, Deep Learning, SQL, AWS",2,ML Engineer,Tier 3,"Telugu, Tamil, English",Delhi,0
+Candidate_308,Bachelor's,3.2,"SQL, Java, Deep Learning",4,ML Engineer,Tier 2,"Telugu, English, Tamil",Mumbai,0
+Candidate_309,PhD,3.2,"Deep Learning, Java, Machine Learning, AWS",4,Data Analyst,Tier 3,Hindi,Mumbai,0
+Candidate_310,Bachelor's,9.3,"JavaScript, SQL, Matplotlib, React",5,Backend Developer,Tier 2,"Tamil, English",Mumbai,0
+Candidate_311,Master's,7.5,"TensorFlow, Seaborn, Java, Matplotlib, Keras, Deep Learning",3,Backend Developer,Tier 1,Telugu,Hyderabad,0
+Candidate_312,Bachelor's,7.6,"Django, AWS, Java, Python, Seaborn",5,Backend Developer,Tier 1,Hindi,Hyderabad,0
+Candidate_313,Bachelor's,5.0,"TensorFlow, AWS, Python, Matplotlib, Machine Learning",3,Data Scientist,Tier 3,"Kannada, English",Bangalore,0
+Candidate_314,Bachelor's,5.9,"Django, Spark, NumPy, Python",2,Data Scientist,Tier 2,"Hindi, Telugu, English",Hyderabad,0
+Candidate_315,PhD,0.1,"Flask, Seaborn, NLP, Matplotlib, TensorFlow",1,Backend Developer,Tier 2,"Hindi, Tamil",Chennai,1
+Candidate_316,Master's,1.2,"Pandas, Python, AWS, Matplotlib, TensorFlow",1,Backend Developer,Tier 2,Hindi,Hyderabad,0
+Candidate_317,PhD,7.4,"Node.js, Spark, Machine Learning, NLP, Pandas",0,Backend Developer,Tier 2,Kannada,Bangalore,0
+Candidate_318,Master's,0.1,"Deep Learning, Node.js, NumPy, TensorFlow",5,Frontend Developer,Tier 2,"Hindi, Telugu, Kannada",Delhi,0
+Candidate_319,PhD,2.9,"C++, SQL, Python, Seaborn",4,Data Scientist,Tier 2,Tamil,Mumbai,1
+Candidate_320,Master's,7.3,"SQL, Java, NLP, Node.js",5,Backend Developer,Tier 3,"English, Tamil",Mumbai,1
+Candidate_321,PhD,0.2,"SQL, Machine Learning, JavaScript",2,ML Engineer,Tier 1,English,Mumbai,1
+Candidate_322,Bachelor's,0.1,"Django, Pandas, Seaborn",2,Frontend Developer,Tier 3,"English, Hindi",Hyderabad,0
+Candidate_323,Bachelor's,4.0,"Python, Java, NumPy, Keras, Pandas, Node.js",1,Data Scientist,Tier 1,"English, Tamil, Telugu",Chennai,0
+Candidate_324,PhD,4.8,"Python, Flask, Node.js, Django, Pandas",0,Data Scientist,Tier 2,"Telugu, Hindi, Tamil",Pune,1
+Candidate_325,Bachelor's,2.9,"AWS, NLP, Pandas",3,Data Analyst,Tier 3,"Kannada, Hindi",Chennai,0
+Candidate_326,PhD,6.4,"React, Spark, TensorFlow, NLP, Pandas, AWS",2,Backend Developer,Tier 2,"Kannada, Telugu, Hindi",Mumbai,1
+Candidate_327,Bachelor's,6.0,"Deep Learning, NLP, Pandas, Seaborn",4,Backend Developer,Tier 2,"Hindi, Tamil, Telugu",Pune,1
+Candidate_328,PhD,1.6,"Node.js, TensorFlow, C++, Keras",0,Data Analyst,Tier 3,Kannada,Bangalore,0
+Candidate_329,Master's,9.3,"Django, Deep Learning, NumPy, SQL",2,Frontend Developer,Tier 2,"Telugu, Hindi, Tamil",Chennai,0
+Candidate_330,PhD,4.1,"Django, Pandas, JavaScript",5,Backend Developer,Tier 3,Telugu,Hyderabad,1
+Candidate_331,Bachelor's,6.9,"Django, TensorFlow, Machine Learning, Node.js, SQL",1,Data Scientist,Tier 2,Hindi,Hyderabad,0
+Candidate_332,PhD,0.7,"Pandas, SQL, Keras, NLP, TensorFlow",0,Data Analyst,Tier 2,"Hindi, Tamil",Mumbai,0
+Candidate_333,PhD,5.9,"AWS, Spark, Java, NumPy, Seaborn, Django",2,Frontend Developer,Tier 3,"Telugu, English",Mumbai,0
+Candidate_334,PhD,5.9,"NumPy, Python, TensorFlow, Java, AWS",0,ML Engineer,Tier 1,Hindi,Pune,0
+Candidate_335,PhD,6.3,"Pandas, TensorFlow, Deep Learning",1,Data Analyst,Tier 1,"Tamil, Telugu",Hyderabad,1
+Candidate_336,PhD,4.1,"JavaScript, Spark, Python",4,ML Engineer,Tier 1,"Tamil, Telugu",Delhi,0
+Candidate_337,PhD,7.2,"Spark, SQL, Matplotlib, NumPy, React",3,Frontend Developer,Tier 1,"Kannada, Tamil",Mumbai,1
+Candidate_338,Bachelor's,6.9,"Node.js, NumPy, Spark",1,Data Scientist,Tier 3,"Hindi, Telugu, English",Chennai,0
+Candidate_339,Bachelor's,2.2,"Django, Pandas, SQL, Seaborn, React, C++",1,Data Analyst,Tier 2,"Tamil, Telugu",Bangalore,0
+Candidate_340,PhD,5.3,"Seaborn, SQL, Keras, NumPy, Java",2,ML Engineer,Tier 2,English,Bangalore,0
+Candidate_341,Master's,8.8,"NumPy, TensorFlow, Matplotlib, Django, JavaScript",0,Data Scientist,Tier 3,Hindi,Mumbai,0
+Candidate_342,PhD,10.0,"Seaborn, Flask, NumPy, C++, React",4,ML Engineer,Tier 1,Hindi,Hyderabad,0
+Candidate_343,Master's,1.3,"Python, NLP, Java, Matplotlib, AWS, Seaborn",4,Frontend Developer,Tier 1,"Hindi, Tamil",Hyderabad,0
+Candidate_344,Master's,8.0,"NumPy, AWS, Spark, Node.js",0,Backend Developer,Tier 3,"Kannada, English, Telugu",Pune,0
+Candidate_345,Bachelor's,8.6,"C++, NumPy, Matplotlib, AWS",4,Backend Developer,Tier 2,"Tamil, Hindi, Telugu",Mumbai,0
+Candidate_346,Bachelor's,7.5,"Deep Learning, TensorFlow, Python",1,Frontend Developer,Tier 3,Hindi,Mumbai,0
+Candidate_347,PhD,9.5,"React, Django, Matplotlib, Machine Learning, NumPy, TensorFlow",0,ML Engineer,Tier 2,Kannada,Bangalore,0
+Candidate_348,PhD,8.9,"Java, NLP, Flask, TensorFlow",2,ML Engineer,Tier 2,"Kannada, Tamil",Chennai,0
+Candidate_349,Master's,5.1,"Spark, Seaborn, JavaScript, NumPy, Deep Learning, Java",5,ML Engineer,Tier 3,"Kannada, English, Hindi",Pune,1
+Candidate_350,Master's,9.3,"AWS, Matplotlib, Django, Deep Learning, Spark",1,Data Analyst,Tier 2,Tamil,Delhi,0
+Candidate_351,PhD,4.1,"AWS, Keras, Node.js, JavaScript, Machine Learning",1,Frontend Developer,Tier 3,"Hindi, Telugu",Delhi,1
+Candidate_352,PhD,1.7,"Django, Node.js, Deep Learning, React, NumPy",2,Backend Developer,Tier 3,"Kannada, Telugu",Delhi,0
+Candidate_353,Master's,1.5,"Flask, SQL, TensorFlow",4,ML Engineer,Tier 1,"Telugu, Kannada",Delhi,0
+Candidate_354,PhD,8.2,"Node.js, Flask, Java, Keras, NumPy, Machine Learning",0,ML Engineer,Tier 2,Hindi,Hyderabad,0
+Candidate_355,Bachelor's,3.6,"Java, C++, Flask",0,Data Analyst,Tier 1,Telugu,Hyderabad,0
+Candidate_356,Bachelor's,8.9,"Python, SQL, Deep Learning",4,Frontend Developer,Tier 1,Hindi,Delhi,0
+Candidate_357,PhD,5.7,"Seaborn, NLP, Django, JavaScript, Python",4,Data Analyst,Tier 1,Telugu,Hyderabad,0
+Candidate_358,PhD,6.2,"C++, Spark, Flask, NumPy",0,Data Scientist,Tier 2,Hindi,Mumbai,0
+Candidate_359,PhD,1.7,"Django, Flask, SQL, Python",1,Frontend Developer,Tier 3,"Telugu, Hindi",Hyderabad,0
+Candidate_360,Bachelor's,8.5,"Pandas, AWS, JavaScript, TensorFlow, Matplotlib, Python",4,Frontend Developer,Tier 3,"Telugu, Tamil",Chennai,0
+Candidate_361,Bachelor's,5.0,"Pandas, Node.js, NLP, JavaScript, C++, Machine Learning",5,ML Engineer,Tier 2,Hindi,Chennai,0
+Candidate_362,Master's,4.1,"Machine Learning, Django, TensorFlow, NumPy",0,Data Analyst,Tier 3,Telugu,Pune,0
+Candidate_363,Bachelor's,3.9,"NLP, TensorFlow, Python, NumPy, Keras",5,ML Engineer,Tier 1,"Tamil, Kannada",Hyderabad,1
+Candidate_364,Master's,3.7,"NumPy, React, Spark, Django, Node.js",0,ML Engineer,Tier 1,Hindi,Bangalore,0
+Candidate_365,PhD,7.0,"Flask, C++, Matplotlib",2,ML Engineer,Tier 1,"Tamil, Hindi",Hyderabad,0
+Candidate_366,Master's,3.1,"Django, C++, Java",4,Backend Developer,Tier 2,"Hindi, Kannada",Bangalore,0
+Candidate_367,Bachelor's,6.0,"C++, SQL, Flask",1,Data Analyst,Tier 2,"Tamil, Hindi, English",Delhi,0
+Candidate_368,Bachelor's,2.5,"Deep Learning, React, Flask",4,Data Scientist,Tier 1,"Hindi, Kannada",Bangalore,0
+Candidate_369,Master's,1.6,"Django, NLP, Flask, Pandas",1,ML Engineer,Tier 1,"Hindi, Kannada, Tamil",Delhi,0
+Candidate_370,Bachelor's,0.7,"JavaScript, Python, Machine Learning, Pandas, NumPy, Deep Learning",3,Data Analyst,Tier 2,"Telugu, Tamil, Kannada",Delhi,0
+Candidate_371,PhD,8.4,"Flask, Matplotlib, Keras, React, NumPy, C++",0,Backend Developer,Tier 2,"English, Telugu",Mumbai,0
+Candidate_372,Master's,3.0,"Deep Learning, NumPy, Node.js",0,Backend Developer,Tier 3,Telugu,Delhi,0
+Candidate_373,PhD,1.4,"TensorFlow, Django, JavaScript, Python, Spark",3,Frontend Developer,Tier 2,"Telugu, Tamil, English",Mumbai,0
+Candidate_374,Bachelor's,4.2,"Django, JavaScript, SQL",2,Frontend Developer,Tier 2,"Telugu, English",Delhi,0
+Candidate_375,Master's,3.5,"Java, NumPy, C++, NLP, Deep Learning, SQL",2,Data Analyst,Tier 1,Kannada,Chennai,0
+Candidate_376,Bachelor's,0.2,"Matplotlib, NLP, Python, Pandas",3,Frontend Developer,Tier 2,"Kannada, Tamil",Chennai,1
+Candidate_377,Master's,0.5,"Pandas, NumPy, Keras",4,Data Scientist,Tier 3,"Kannada, English, Telugu",Mumbai,0
+Candidate_378,Master's,6.6,"Flask, JavaScript, Spark, Node.js, C++, Machine Learning",3,Frontend Developer,Tier 1,Tamil,Bangalore,0
+Candidate_379,Bachelor's,1.9,"Keras, JavaScript, AWS, Flask",1,Data Scientist,Tier 1,Tamil,Pune,1
+Candidate_380,Master's,7.9,"Pandas, React, NumPy, SQL",0,ML Engineer,Tier 2,"Tamil, Telugu, Hindi",Delhi,1
+Candidate_381,PhD,5.5,"Deep Learning, Matplotlib, JavaScript, Spark, Flask",4,Backend Developer,Tier 1,"Telugu, Tamil",Chennai,0
+Candidate_382,PhD,3.0,"Java, Spark, Machine Learning, Flask, SQL, Keras",1,Data Analyst,Tier 1,Telugu,Hyderabad,0
+Candidate_383,Bachelor's,7.0,"Keras, TensorFlow, AWS, Deep Learning, Machine Learning",0,Backend Developer,Tier 2,"English, Tamil, Kannada",Mumbai,0
+Candidate_384,Master's,8.2,"Keras, NumPy, Python, Deep Learning",2,Data Scientist,Tier 2,"Telugu, Hindi",Mumbai,0
+Candidate_385,Master's,8.5,"Django, React, Deep Learning, Spark, Seaborn",4,ML Engineer,Tier 1,English,Pune,1
+Candidate_386,Bachelor's,1.5,"NumPy, C++, JavaScript, Java, Python, Django",1,Data Scientist,Tier 2,"Tamil, English, Telugu",Hyderabad,0
+Candidate_387,Master's,3.3,"Spark, C++, Java",4,Data Scientist,Tier 1,Telugu,Mumbai,1
+Candidate_388,Bachelor's,2.7,"AWS, Matplotlib, C++, Machine Learning, JavaScript",0,ML Engineer,Tier 2,Kannada,Bangalore,0
+Candidate_389,Master's,6.1,"Java, TensorFlow, Deep Learning, React, NumPy",3,Frontend Developer,Tier 2,"Telugu, Kannada",Hyderabad,1
+Candidate_390,Master's,6.7,"Django, Pandas, JavaScript, Seaborn",0,Data Scientist,Tier 1,English,Mumbai,0
+Candidate_391,Bachelor's,1.5,"Machine Learning, Deep Learning, Spark",4,Backend Developer,Tier 2,"English, Tamil",Pune,1
+Candidate_392,Bachelor's,9.0,"NLP, React, TensorFlow",1,Frontend Developer,Tier 1,"Telugu, Hindi",Mumbai,0
+Candidate_393,Master's,6.6,"Deep Learning, Pandas, JavaScript, AWS, Keras, Matplotlib",2,Data Analyst,Tier 1,Hindi,Chennai,1
+Candidate_394,Master's,0.9,"JavaScript, Java, AWS, Django, NumPy",2,Backend Developer,Tier 2,English,Pune,1
+Candidate_395,Master's,7.1,"Deep Learning, Python, SQL, NumPy, Node.js",1,Backend Developer,Tier 3,"Kannada, Tamil, Telugu",Mumbai,0
+Candidate_396,PhD,9.9,"Keras, Java, Pandas, Machine Learning",4,ML Engineer,Tier 2,Telugu,Delhi,0
+Candidate_397,PhD,9.7,"NumPy, Keras, Pandas",4,Data Analyst,Tier 2,"Hindi, Telugu, Kannada",Chennai,0
+Candidate_398,PhD,8.5,"Spark, Flask, TensorFlow, AWS",0,Data Analyst,Tier 1,"Hindi, Telugu",Bangalore,0
+Candidate_399,Master's,0.5,"Flask, Seaborn, Spark",3,Data Scientist,Tier 3,"Tamil, English, Hindi",Delhi,0
+Candidate_400,Bachelor's,5.3,"SQL, Django, TensorFlow, Deep Learning, React",4,Backend Developer,Tier 2,Tamil,Pune,0
+Candidate_401,Bachelor's,9.5,"SQL, JavaScript, Flask",1,Frontend Developer,Tier 2,Telugu,Hyderabad,0
+Candidate_402,PhD,1.6,"Machine Learning, AWS, Seaborn",5,Data Analyst,Tier 1,English,Bangalore,0
+Candidate_403,Bachelor's,0.7,"React, SQL, Pandas, Deep Learning, Spark",4,Data Analyst,Tier 1,"Kannada, Tamil",Bangalore,0
+Candidate_404,Master's,7.9,"React, TensorFlow, Node.js, Flask, Python",4,Data Scientist,Tier 1,Tamil,Hyderabad,1
+Candidate_405,PhD,8.2,"NumPy, NLP, Python, Deep Learning",3,ML Engineer,Tier 3,"Hindi, Kannada",Hyderabad,0
+Candidate_406,PhD,6.4,"Django, NumPy, Seaborn",3,ML Engineer,Tier 2,English,Bangalore,0
+Candidate_407,Master's,1.9,"Python, NLP, Deep Learning, Keras, AWS",2,ML Engineer,Tier 1,"Kannada, English, Tamil",Hyderabad,0
+Candidate_408,Master's,4.9,"SQL, Java, Deep Learning, Django, Machine Learning",4,ML Engineer,Tier 1,Tamil,Pune,0
+Candidate_409,Bachelor's,7.0,"JavaScript, Flask, Deep Learning, Keras, C++, Spark",2,Data Scientist,Tier 3,"Telugu, English",Bangalore,0
+Candidate_410,Master's,3.3,"JavaScript, Matplotlib, SQL",2,Data Scientist,Tier 2,"Tamil, English",Hyderabad,0
+Candidate_411,PhD,2.1,"Django, Java, Flask",2,Data Analyst,Tier 1,"Kannada, Tamil, Telugu",Pune,1
+Candidate_412,Master's,1.0,"Java, Machine Learning, Keras, C++, Deep Learning, JavaScript",5,Data Scientist,Tier 1,"English, Kannada, Hindi",Bangalore,0
+Candidate_413,Master's,8.1,"Seaborn, SQL, Flask, React, Django, Java",2,Backend Developer,Tier 3,"English, Kannada, Hindi",Hyderabad,0
+Candidate_414,PhD,7.1,"Matplotlib, Django, Keras, Python",5,Data Analyst,Tier 3,"Hindi, Telugu, Tamil",Hyderabad,1
+Candidate_415,Bachelor's,4.3,"Node.js, Matplotlib, Machine Learning, NLP, JavaScript, AWS",4,ML Engineer,Tier 2,"Hindi, English",Pune,1
+Candidate_416,Master's,2.5,"Python, SQL, TensorFlow, Node.js, Flask, NLP",1,Data Analyst,Tier 3,"English, Hindi, Kannada",Pune,0
+Candidate_417,Bachelor's,2.3,"Java, C++, TensorFlow, JavaScript",1,Frontend Developer,Tier 3,Hindi,Pune,1
+Candidate_418,Bachelor's,8.3,"Keras, SQL, Deep Learning",1,ML Engineer,Tier 3,"English, Tamil, Hindi",Mumbai,0
+Candidate_419,Master's,6.6,"Pandas, Node.js, JavaScript, Spark, TensorFlow",2,Backend Developer,Tier 3,Telugu,Mumbai,1
+Candidate_420,Master's,4.4,"Python, Keras, Pandas, React, Java",0,ML Engineer,Tier 1,"English, Tamil",Hyderabad,0
+Candidate_421,Master's,2.8,"Python, NumPy, Matplotlib, C++, Pandas, React",2,Backend Developer,Tier 3,"Telugu, Kannada",Chennai,0
+Candidate_422,Bachelor's,4.8,"JavaScript, Python, Django, NumPy, TensorFlow, SQL",4,Data Analyst,Tier 1,Tamil,Pune,0
+Candidate_423,Master's,5.2,"Flask, Matplotlib, Machine Learning",5,ML Engineer,Tier 3,Hindi,Chennai,0
+Candidate_424,Master's,8.1,"NumPy, Matplotlib, Python, JavaScript",0,Frontend Developer,Tier 3,"Kannada, Tamil",Bangalore,1
+Candidate_425,Master's,1.9,"Machine Learning, Keras, Flask",5,Frontend Developer,Tier 3,"Kannada, Tamil",Bangalore,0
+Candidate_426,Master's,4.7,"Django, Deep Learning, Java, Spark",2,ML Engineer,Tier 3,"Telugu, Hindi",Mumbai,1
+Candidate_427,PhD,0.2,"SQL, Spark, JavaScript",1,ML Engineer,Tier 1,"Telugu, English",Bangalore,1
+Candidate_428,PhD,9.9,"JavaScript, Django, Node.js, Seaborn, NLP, Java",0,Frontend Developer,Tier 3,"English, Tamil",Pune,0
+Candidate_429,PhD,8.9,"C++, Deep Learning, Django, SQL",0,Frontend Developer,Tier 3,"Hindi, English, Kannada",Pune,1
+Candidate_430,Master's,5.4,"NumPy, Node.js, Keras",2,Data Scientist,Tier 3,Kannada,Chennai,0
+Candidate_431,Bachelor's,4.3,"NLP, Pandas, Seaborn, React, Python",5,Data Scientist,Tier 3,Tamil,Hyderabad,1
+Candidate_432,Bachelor's,8.2,"Java, React, Node.js, Seaborn",1,Backend Developer,Tier 1,"Telugu, Hindi, Tamil",Hyderabad,0
+Candidate_433,Bachelor's,1.2,"NLP, Machine Learning, Keras, JavaScript",5,Data Scientist,Tier 1,"Telugu, English",Hyderabad,1
+Candidate_434,Master's,0.4,"Keras, SQL, C++, React",1,Data Scientist,Tier 1,"Hindi, Kannada",Chennai,0
+Candidate_435,PhD,5.2,"Pandas, React, Seaborn, Node.js, AWS",3,Backend Developer,Tier 2,"Tamil, Kannada",Delhi,0
+Candidate_436,Bachelor's,9.3,"Node.js, TensorFlow, Machine Learning",3,Data Analyst,Tier 1,"English, Hindi, Kannada",Hyderabad,0
+Candidate_437,PhD,7.0,"Seaborn, NumPy, TensorFlow",5,Data Analyst,Tier 1,Kannada,Hyderabad,1
+Candidate_438,PhD,8.8,"Django, Java, Matplotlib, C++",1,Data Analyst,Tier 2,"Kannada, English, Hindi",Chennai,0
+Candidate_439,Master's,5.5,"Java, Keras, NumPy, Node.js",1,Backend Developer,Tier 1,"Hindi, Telugu, English",Mumbai,0
+Candidate_440,PhD,6.3,"Deep Learning, Pandas, React",5,Frontend Developer,Tier 2,English,Bangalore,1
+Candidate_441,Bachelor's,7.8,"Python, C++, Deep Learning",1,Data Analyst,Tier 3,Telugu,Bangalore,0
+Candidate_442,Master's,7.8,"Java, Python, JavaScript, NLP, Deep Learning",3,Data Scientist,Tier 3,"Tamil, Kannada, Hindi",Hyderabad,1
+Candidate_443,Bachelor's,5.5,"AWS, Spark, Seaborn, NumPy",2,ML Engineer,Tier 1,Hindi,Chennai,0
+Candidate_444,PhD,6.2,"Deep Learning, TensorFlow, NumPy",0,Data Analyst,Tier 1,Kannada,Bangalore,0
+Candidate_445,Bachelor's,6.6,"TensorFlow, NLP, Deep Learning, C++",2,Data Analyst,Tier 1,"Telugu, English",Hyderabad,0
+Candidate_446,Master's,1.5,"Matplotlib, Django, Deep Learning, NLP, Java",2,Frontend Developer,Tier 3,"English, Kannada",Pune,1
+Candidate_447,Master's,0.5,"Django, Keras, Seaborn, Pandas",4,Frontend Developer,Tier 1,"Kannada, Hindi, English",Bangalore,1
+Candidate_448,Bachelor's,2.7,"SQL, TensorFlow, Flask",4,Data Scientist,Tier 3,"English, Tamil, Telugu",Pune,1
+Candidate_449,Master's,9.6,"Seaborn, NumPy, Spark, Django",4,Backend Developer,Tier 1,"English, Telugu, Hindi",Hyderabad,0
+Candidate_450,Bachelor's,6.7,"TensorFlow, Machine Learning, React, Matplotlib",4,Frontend Developer,Tier 1,Hindi,Mumbai,0
+Candidate_451,PhD,1.3,"Node.js, SQL, Machine Learning, Flask, C++, Django",0,ML Engineer,Tier 3,"Hindi, Tamil",Chennai,0
+Candidate_452,Master's,8.7,"React, TensorFlow, Django",5,Frontend Developer,Tier 3,Tamil,Hyderabad,0
+Candidate_453,PhD,0.2,"NumPy, TensorFlow, Machine Learning",3,Frontend Developer,Tier 3,"Kannada, English, Telugu",Pune,1
+Candidate_454,Bachelor's,3.7,"Flask, Deep Learning, JavaScript, Pandas",4,Data Scientist,Tier 2,Tamil,Pune,0
+Candidate_455,PhD,0.6,"Django, Node.js, Spark, Seaborn, NLP",1,Data Analyst,Tier 2,"English, Telugu, Tamil",Hyderabad,0
+Candidate_456,Bachelor's,8.1,"SQL, Pandas, Matplotlib",3,Data Scientist,Tier 3,Hindi,Delhi,0
+Candidate_457,Bachelor's,6.3,"NumPy, Node.js, JavaScript, TensorFlow",5,Frontend Developer,Tier 1,"English, Kannada",Bangalore,1
+Candidate_458,PhD,7.6,"Deep Learning, TensorFlow, SQL, Pandas, Keras, Spark",4,Data Analyst,Tier 1,Hindi,Bangalore,1
+Candidate_459,Bachelor's,5.9,"Keras, SQL, Seaborn, JavaScript, Python",1,ML Engineer,Tier 3,"Telugu, Tamil, Kannada",Chennai,0
+Candidate_460,PhD,1.2,"Python, Node.js, TensorFlow, NLP, Matplotlib, C++",0,Data Scientist,Tier 1,Kannada,Pune,0
+Candidate_461,PhD,2.9,"Django, AWS, TensorFlow, Matplotlib, NumPy",2,Data Scientist,Tier 2,Hindi,Pune,0
+Candidate_462,Bachelor's,9.4,"C++, Django, Pandas, Flask",2,Frontend Developer,Tier 1,"English, Tamil",Hyderabad,0
+Candidate_463,PhD,5.4,"NLP, Python, Deep Learning",1,ML Engineer,Tier 2,"English, Kannada",Bangalore,1
+Candidate_464,PhD,1.3,"Java, Node.js, AWS",4,Backend Developer,Tier 2,"English, Kannada, Hindi",Hyderabad,0
+Candidate_465,PhD,4.6,"Node.js, SQL, React, AWS, Flask",2,Frontend Developer,Tier 2,"Kannada, Hindi, Telugu",Delhi,0
+Candidate_466,Bachelor's,4.9,"Keras, Seaborn, JavaScript, Node.js, Flask, Spark",5,Data Scientist,Tier 2,"English, Telugu, Kannada",Chennai,0
+Candidate_467,Master's,2.4,"Keras, Java, Node.js, Django",5,Frontend Developer,Tier 1,English,Pune,0
+Candidate_468,Master's,4.5,"AWS, Java, Matplotlib",2,Data Analyst,Tier 1,"Tamil, Hindi",Bangalore,0
+Candidate_469,PhD,10.0,"Spark, React, TensorFlow, Keras, Seaborn",5,Frontend Developer,Tier 3,"Kannada, Telugu, English",Delhi,1
+Candidate_470,Master's,1.5,"Spark, TensorFlow, Django, JavaScript, Deep Learning",4,Data Scientist,Tier 3,"Kannada, Hindi",Hyderabad,0
+Candidate_471,Bachelor's,1.1,"Machine Learning, JavaScript, Keras, TensorFlow",4,Data Analyst,Tier 1,"Kannada, English",Delhi,1
+Candidate_472,Master's,1.6,"Pandas, Keras, Python",5,ML Engineer,Tier 1,"Kannada, Hindi",Delhi,0
+Candidate_473,PhD,2.2,"Django, Matplotlib, JavaScript, Python, Machine Learning",0,Frontend Developer,Tier 3,Hindi,Pune,1
+Candidate_474,PhD,6.1,"Python, Seaborn, JavaScript, TensorFlow, NLP",4,Backend Developer,Tier 2,Kannada,Mumbai,0
+Candidate_475,PhD,3.8,"C++, Node.js, Python, NumPy, Keras, Java",5,Backend Developer,Tier 3,"Kannada, Tamil",Bangalore,1
+Candidate_476,Master's,8.4,"TensorFlow, Seaborn, JavaScript, Django, Machine Learning",4,Frontend Developer,Tier 1,Hindi,Mumbai,0
+Candidate_477,Bachelor's,0.0,"AWS, TensorFlow, Spark, C++, Java, NumPy",3,Data Analyst,Tier 1,"Hindi, Tamil, English",Bangalore,0
+Candidate_478,Bachelor's,3.8,"AWS, Flask, C++",2,Data Analyst,Tier 3,"English, Telugu",Mumbai,0
+Candidate_479,Bachelor's,8.6,"Spark, Pandas, Keras, JavaScript",0,Frontend Developer,Tier 2,"English, Telugu",Mumbai,0
+Candidate_480,Master's,6.0,"React, Java, Pandas, JavaScript, TensorFlow, NumPy",3,Backend Developer,Tier 2,Kannada,Bangalore,0
+Candidate_481,PhD,8.7,"TensorFlow, Java, React, C++, Flask, Python",3,Data Analyst,Tier 2,Hindi,Hyderabad,0
+Candidate_482,Bachelor's,4.5,"JavaScript, Deep Learning, NLP",5,Backend Developer,Tier 2,Telugu,Delhi,0
+Candidate_483,Bachelor's,4.6,"React, SQL, C++, AWS",0,ML Engineer,Tier 2,Kannada,Pune,0
+Candidate_484,Master's,1.3,"Seaborn, Spark, NLP, TensorFlow, SQL, NumPy",1,ML Engineer,Tier 3,"Tamil, Kannada, Hindi",Delhi,0
+Candidate_485,Bachelor's,7.3,"Spark, Deep Learning, Java, JavaScript",3,Frontend Developer,Tier 1,"Tamil, Kannada",Bangalore,0
+Candidate_486,Bachelor's,4.5,"SQL, TensorFlow, NumPy, AWS, JavaScript",3,ML Engineer,Tier 1,English,Bangalore,0
+Candidate_487,Bachelor's,6.4,"Spark, Seaborn, React, SQL, Node.js, JavaScript",4,ML Engineer,Tier 3,"Telugu, Kannada",Hyderabad,0
+Candidate_488,Master's,8.7,"Seaborn, Django, SQL, Matplotlib",1,Data Analyst,Tier 2,"English, Tamil",Hyderabad,0
+Candidate_489,PhD,7.5,"NumPy, Spark, Seaborn",5,ML Engineer,Tier 1,"Telugu, English",Mumbai,0
+Candidate_490,Master's,2.4,"Matplotlib, JavaScript, Python, NLP, Seaborn, Node.js",4,Backend Developer,Tier 1,Hindi,Pune,0
+Candidate_491,Master's,3.3,"C++, TensorFlow, NLP, Python",2,Data Analyst,Tier 1,"Tamil, Telugu, Kannada",Hyderabad,1
+Candidate_492,PhD,0.7,"C++, Spark, JavaScript, Deep Learning",4,ML Engineer,Tier 3,Kannada,Delhi,1
+Candidate_493,PhD,7.7,"Django, Keras, Seaborn, Machine Learning, Python",1,Backend Developer,Tier 1,"English, Hindi",Pune,1
+Candidate_494,PhD,4.3,"Matplotlib, Machine Learning, JavaScript, Spark, Deep Learning",5,Data Analyst,Tier 3,English,Chennai,0
+Candidate_495,Master's,4.5,"Java, Pandas, C++, NLP, React, SQL",4,ML Engineer,Tier 2,Kannada,Pune,0
+Candidate_496,Bachelor's,0.3,"Flask, TensorFlow, C++, Seaborn, Pandas, Django",4,Data Analyst,Tier 3,Kannada,Delhi,0
+Candidate_497,Master's,5.1,"JavaScript, Deep Learning, Matplotlib, Node.js",3,Data Scientist,Tier 3,"Kannada, English",Mumbai,1
+Candidate_498,PhD,1.9,"NLP, Java, Flask, Python",5,Frontend Developer,Tier 2,"Kannada, Tamil",Pune,1
+Candidate_499,Master's,5.7,"SQL, React, Flask",4,Backend Developer,Tier 2,"Tamil, Kannada",Hyderabad,1
+Candidate_500,PhD,3.9,"Node.js, JavaScript, NLP, Machine Learning, React, Deep Learning",1,Backend Developer,Tier 3,"Tamil, Telugu, English",Hyderabad,0
+Candidate_501,PhD,9.6,"Deep Learning, TensorFlow, React",2,Data Scientist,Tier 2,Kannada,Chennai,0
+Candidate_502,PhD,9.9,"React, Deep Learning, TensorFlow, AWS, Matplotlib, Node.js",4,Backend Developer,Tier 1,"Kannada, Tamil",Bangalore,1
+Candidate_503,Bachelor's,8.6,"Seaborn, TensorFlow, NLP",2,Data Scientist,Tier 2,"Tamil, Telugu, Kannada",Chennai,1
+Candidate_504,Bachelor's,6.1,"Machine Learning, Flask, Django, Python, Node.js, JavaScript",5,Data Analyst,Tier 3,"Kannada, English, Telugu",Mumbai,0
+Candidate_505,PhD,4.8,"Node.js, Matplotlib, Deep Learning",4,Backend Developer,Tier 1,Tamil,Hyderabad,0
+Candidate_506,Master's,3.1,"Machine Learning, Pandas, SQL, Deep Learning, Matplotlib",1,Data Scientist,Tier 1,"Kannada, Hindi",Mumbai,0
+Candidate_507,Master's,7.3,"Django, Keras, Pandas",2,Data Scientist,Tier 3,"Hindi, English",Chennai,0
+Candidate_508,Bachelor's,0.4,"React, Pandas, TensorFlow, Matplotlib, SQL",5,Data Analyst,Tier 3,Kannada,Pune,0
+Candidate_509,Bachelor's,7.6,"Flask, NLP, JavaScript",1,Data Analyst,Tier 2,"Hindi, Kannada",Chennai,0
+Candidate_510,PhD,8.1,"Keras, Java, Deep Learning, Matplotlib, AWS, TensorFlow",3,Data Analyst,Tier 2,Hindi,Mumbai,0
+Candidate_511,PhD,3.4,"Flask, Seaborn, Deep Learning, Keras, NLP",2,Data Analyst,Tier 3,Tamil,Delhi,0
+Candidate_512,Bachelor's,9.7,"Deep Learning, Python, JavaScript, Spark, Java, Matplotlib",1,Frontend Developer,Tier 1,"Hindi, English, Telugu",Hyderabad,0
+Candidate_513,PhD,8.8,"Deep Learning, AWS, C++",1,Data Scientist,Tier 2,Kannada,Hyderabad,0
+Candidate_514,PhD,6.3,"SQL, Machine Learning, Spark, Seaborn",4,Data Analyst,Tier 2,"Kannada, Telugu, English",Mumbai,0
+Candidate_515,PhD,9.9,"Keras, Pandas, Spark, Machine Learning",5,ML Engineer,Tier 1,Tamil,Delhi,0
+Candidate_516,PhD,7.0,"Machine Learning, Node.js, C++, Matplotlib, Spark",1,Data Analyst,Tier 1,"Hindi, Kannada, English",Hyderabad,1
+Candidate_517,Bachelor's,6.1,"Machine Learning, C++, Java",3,Data Scientist,Tier 3,Telugu,Chennai,1
+Candidate_518,Master's,1.6,"NLP, Python, Seaborn, React, NumPy, Node.js",4,Data Scientist,Tier 1,Tamil,Mumbai,0
+Candidate_519,Master's,3.2,"Seaborn, Flask, NumPy, JavaScript, TensorFlow",1,Data Analyst,Tier 2,Kannada,Bangalore,1
+Candidate_520,PhD,8.2,"TensorFlow, Seaborn, Django, SQL, AWS, Python",4,Backend Developer,Tier 1,"Telugu, Hindi, English",Mumbai,1
+Candidate_521,PhD,2.2,"Node.js, Spark, React, Python, Deep Learning, C++",1,Backend Developer,Tier 3,"Hindi, Telugu, English",Bangalore,0
+Candidate_522,PhD,4.3,"Spark, C++, Machine Learning, Django, JavaScript",1,Backend Developer,Tier 2,"Hindi, Kannada, Telugu",Delhi,0
+Candidate_523,Master's,2.7,"NumPy, Pandas, AWS",1,Backend Developer,Tier 2,English,Delhi,1
+Candidate_524,Master's,2.6,"Spark, NumPy, SQL, React, Pandas",4,Data Analyst,Tier 1,"Hindi, Telugu, English",Hyderabad,0
+Candidate_525,Bachelor's,3.3,"Matplotlib, NumPy, SQL, Node.js, Spark, NLP",2,Backend Developer,Tier 3,"Hindi, Kannada, English",Bangalore,0
+Candidate_526,PhD,7.5,"JavaScript, NLP, TensorFlow",5,Data Scientist,Tier 1,English,Chennai,0
+Candidate_527,PhD,4.9,"Matplotlib, AWS, Spark, Pandas, NLP, Deep Learning",1,Frontend Developer,Tier 2,Hindi,Pune,0
+Candidate_528,PhD,3.9,"Java, Node.js, Python",2,Frontend Developer,Tier 2,"English, Tamil, Kannada",Mumbai,0
+Candidate_529,Bachelor's,3.5,"Node.js, Spark, C++, Python",1,Data Analyst,Tier 3,"Tamil, English, Telugu",Chennai,0
+Candidate_530,Bachelor's,4.8,"Java, Node.js, Python, Keras",3,Data Scientist,Tier 3,"English, Kannada",Hyderabad,0
+Candidate_531,Master's,0.5,"JavaScript, SQL, Node.js, React",0,ML Engineer,Tier 3,English,Bangalore,0
+Candidate_532,PhD,7.7,"SQL, AWS, TensorFlow",3,Data Scientist,Tier 1,English,Delhi,0
+Candidate_533,PhD,0.3,"Deep Learning, Matplotlib, Pandas, Django",1,Data Analyst,Tier 1,Tamil,Delhi,1
+Candidate_534,Bachelor's,4.3,"Node.js, Seaborn, Python, React, Pandas",5,Frontend Developer,Tier 1,Tamil,Hyderabad,1
+Candidate_535,Bachelor's,0.9,"Seaborn, TensorFlow, Matplotlib",1,Frontend Developer,Tier 3,"Tamil, Hindi, English",Delhi,1
+Candidate_536,Master's,3.8,"Spark, Node.js, NLP",2,ML Engineer,Tier 1,"English, Hindi, Tamil",Pune,1
+Candidate_537,PhD,6.0,"Spark, NumPy, Python, SQL",1,ML Engineer,Tier 2,Telugu,Chennai,0
+Candidate_538,PhD,3.3,"TensorFlow, Machine Learning, JavaScript, Node.js, Python",2,Data Scientist,Tier 1,Hindi,Mumbai,1
+Candidate_539,Bachelor's,4.2,"AWS, React, NumPy, Django, Seaborn",2,Data Scientist,Tier 3,Telugu,Pune,0
+Candidate_540,PhD,9.6,"Keras, Spark, Python, AWS, Django, C++",1,Frontend Developer,Tier 1,"Tamil, Kannada",Hyderabad,0
+Candidate_541,PhD,6.3,"Django, Machine Learning, Java",1,Data Scientist,Tier 3,"Telugu, Kannada",Delhi,0
+Candidate_542,PhD,4.5,"Machine Learning, C++, NLP, Pandas, Seaborn, React",2,ML Engineer,Tier 1,"Telugu, English",Hyderabad,1
+Candidate_543,Master's,4.6,"SQL, Java, Seaborn",0,Data Scientist,Tier 3,English,Hyderabad,1
+Candidate_544,Bachelor's,8.1,"Seaborn, Django, SQL, Pandas, TensorFlow, JavaScript",0,ML Engineer,Tier 3,Kannada,Bangalore,0
+Candidate_545,PhD,1.0,"Pandas, SQL, JavaScript, Python, Spark",2,Data Scientist,Tier 1,"English, Telugu, Hindi",Bangalore,0
+Candidate_546,Bachelor's,0.5,"Deep Learning, C++, Java, Machine Learning",2,Data Analyst,Tier 2,"Hindi, Telugu",Hyderabad,1
+Candidate_547,Bachelor's,7.0,"Python, Spark, Keras",1,Frontend Developer,Tier 3,"Tamil, Telugu, Hindi",Pune,0
+Candidate_548,Master's,6.0,"Python, Node.js, SQL, AWS, Deep Learning, Seaborn",5,Backend Developer,Tier 1,"Tamil, Telugu",Mumbai,0
+Candidate_549,Master's,8.2,"NLP, Spark, C++",4,Backend Developer,Tier 3,"English, Kannada",Bangalore,1
+Candidate_550,Master's,4.0,"SQL, Machine Learning, Deep Learning, Python, C++, TensorFlow",0,Data Scientist,Tier 2,"Telugu, English, Hindi",Bangalore,0
+Candidate_551,Bachelor's,7.5,"Spark, Django, Seaborn, C++, Flask",4,Data Scientist,Tier 3,"English, Tamil, Kannada",Bangalore,0
+Candidate_552,Master's,6.1,"Spark, Machine Learning, NumPy",3,Data Analyst,Tier 2,"Hindi, English, Telugu",Mumbai,0
+Candidate_553,PhD,4.4,"Keras, TensorFlow, Seaborn",5,Frontend Developer,Tier 2,Hindi,Hyderabad,0
+Candidate_554,Master's,2.9,"NumPy, AWS, Flask",1,Backend Developer,Tier 2,"Hindi, Kannada",Pune,1
+Candidate_555,PhD,9.7,"Spark, AWS, SQL, Pandas, Python",0,Frontend Developer,Tier 2,"Hindi, English, Telugu",Mumbai,0
+Candidate_556,Bachelor's,5.2,"SQL, C++, Keras, Java",1,Data Scientist,Tier 3,"Tamil, English, Kannada",Bangalore,0
+Candidate_557,Bachelor's,3.7,"JavaScript, SQL, C++, Pandas, Python, NLP",4,Data Analyst,Tier 2,"Kannada, English, Telugu",Delhi,0
+Candidate_558,Master's,8.9,"Seaborn, JavaScript, React, SQL, Pandas",2,Data Analyst,Tier 1,"Telugu, Tamil, Hindi",Bangalore,0
+Candidate_559,PhD,1.7,"Flask, Seaborn, Java",3,ML Engineer,Tier 3,Hindi,Hyderabad,0
+Candidate_560,Master's,5.6,"AWS, TensorFlow, C++, Seaborn, React",4,ML Engineer,Tier 3,"Hindi, Telugu",Delhi,0
+Candidate_561,PhD,1.5,"Spark, NumPy, Java, Flask, Seaborn, Machine Learning",2,Backend Developer,Tier 2,Kannada,Mumbai,1
+Candidate_562,Bachelor's,3.5,"NumPy, Seaborn, Django",1,ML Engineer,Tier 3,"Kannada, Hindi, Telugu",Pune,0
+Candidate_563,Master's,3.5,"Spark, TensorFlow, React, Machine Learning, Java, Pandas",4,ML Engineer,Tier 2,"Telugu, Kannada, Tamil",Hyderabad,1
+Candidate_564,PhD,2.6,"Python, Flask, Pandas, Matplotlib, Machine Learning, C++",0,ML Engineer,Tier 3,"English, Telugu",Hyderabad,0
+Candidate_565,Bachelor's,9.8,"Spark, Django, Keras, Flask, JavaScript",0,Data Analyst,Tier 1,"Kannada, Telugu",Delhi,1
+Candidate_566,PhD,5.0,"Keras, JavaScript, Flask",3,ML Engineer,Tier 3,"Kannada, English",Mumbai,0
+Candidate_567,Bachelor's,6.2,"C++, Machine Learning, AWS",1,Data Scientist,Tier 3,Tamil,Pune,0
+Candidate_568,PhD,6.4,"Node.js, Keras, SQL, Django",1,ML Engineer,Tier 1,"Hindi, Kannada",Bangalore,1
+Candidate_569,Master's,3.2,"TensorFlow, Deep Learning, Python",1,Frontend Developer,Tier 2,"Telugu, Hindi",Chennai,1
+Candidate_570,Bachelor's,6.2,"Deep Learning, Java, Node.js, Machine Learning, Flask, Python",4,ML Engineer,Tier 1,"Telugu, English",Delhi,0
+Candidate_571,Bachelor's,7.0,"Seaborn, AWS, Python",3,ML Engineer,Tier 1,Tamil,Bangalore,1
+Candidate_572,Master's,2.7,"Django, Deep Learning, React",3,ML Engineer,Tier 3,"Kannada, Hindi",Pune,1
+Candidate_573,PhD,4.0,"Machine Learning, Matplotlib, TensorFlow, AWS, C++, React",2,Data Analyst,Tier 2,"English, Kannada, Telugu",Delhi,0
+Candidate_574,Bachelor's,7.2,"Java, NumPy, NLP, Django",5,ML Engineer,Tier 1,"English, Kannada",Mumbai,1
+Candidate_575,Bachelor's,4.2,"Django, Seaborn, Spark",3,Backend Developer,Tier 1,"Hindi, English",Delhi,0
+Candidate_576,PhD,2.6,"AWS, Java, TensorFlow, NumPy, Python",0,Data Scientist,Tier 3,"Tamil, Hindi, Telugu",Delhi,0
+Candidate_577,PhD,2.5,"Machine Learning, TensorFlow, Spark",5,Frontend Developer,Tier 3,"Kannada, Telugu, Hindi",Mumbai,1
+Candidate_578,Master's,0.5,"Flask, React, Python, Machine Learning, Deep Learning, Node.js",2,ML Engineer,Tier 2,"English, Telugu, Hindi",Chennai,1
+Candidate_579,Bachelor's,1.9,"Keras, JavaScript, Django",2,Frontend Developer,Tier 2,Hindi,Mumbai,1
+Candidate_580,Master's,7.0,"SQL, TensorFlow, Deep Learning",4,Data Analyst,Tier 1,Telugu,Hyderabad,0
+Candidate_581,Bachelor's,1.2,"Machine Learning, React, Pandas, Keras",3,ML Engineer,Tier 1,"Kannada, English",Mumbai,0
+Candidate_582,Bachelor's,1.0,"Flask, SQL, C++, NLP",4,Frontend Developer,Tier 3,"Telugu, English, Kannada",Delhi,0
+Candidate_583,Bachelor's,1.1,"NumPy, AWS, Seaborn, JavaScript, Node.js, Keras",0,Backend Developer,Tier 2,"English, Tamil",Mumbai,0
+Candidate_584,Bachelor's,9.9,"Flask, React, Keras, C++, JavaScript, NLP",0,Backend Developer,Tier 3,"Hindi, Telugu",Chennai,0
+Candidate_585,Bachelor's,4.3,"Seaborn, Java, Pandas, NLP, React, NumPy",2,Data Analyst,Tier 1,Kannada,Pune,0
+Candidate_586,Bachelor's,5.0,"NLP, Flask, Java, Seaborn, Keras",2,Frontend Developer,Tier 2,"Telugu, Tamil, Kannada",Hyderabad,0
+Candidate_587,Bachelor's,8.5,"SQL, JavaScript, Node.js",1,ML Engineer,Tier 3,"Telugu, English, Hindi",Mumbai,0
+Candidate_588,Master's,7.6,"Machine Learning, React, NumPy, Spark",0,Backend Developer,Tier 3,"Telugu, Hindi, English",Mumbai,1
+Candidate_589,Master's,7.1,"C++, TensorFlow, Django",0,Frontend Developer,Tier 3,English,Mumbai,0
+Candidate_590,PhD,9.9,"Deep Learning, Seaborn, Matplotlib, JavaScript",2,Data Analyst,Tier 2,Tamil,Bangalore,1
+Candidate_591,Bachelor's,8.6,"Matplotlib, C++, TensorFlow",3,ML Engineer,Tier 3,Telugu,Chennai,0
+Candidate_592,Bachelor's,2.8,"NLP, Flask, Spark, Keras, Java",4,Backend Developer,Tier 2,"English, Telugu, Tamil",Delhi,1
+Candidate_593,Bachelor's,4.5,"Python, Deep Learning, Django",5,Data Analyst,Tier 3,"Kannada, Tamil",Delhi,0
+Candidate_594,PhD,3.9,"Spark, Matplotlib, AWS, JavaScript, Java, Seaborn",2,ML Engineer,Tier 1,"English, Tamil",Mumbai,0
+Candidate_595,PhD,1.4,"Django, Java, C++, TensorFlow, Flask, Seaborn",2,Backend Developer,Tier 3,"Hindi, Telugu, English",Delhi,1
+Candidate_596,Bachelor's,2.4,"JavaScript, SQL, Seaborn",3,Data Scientist,Tier 1,"Hindi, Kannada, Tamil",Delhi,0
+Candidate_597,Bachelor's,7.1,"React, JavaScript, SQL, Java",0,Data Scientist,Tier 1,English,Bangalore,0
+Candidate_598,PhD,5.2,"Keras, TensorFlow, SQL, Java, Python, Flask",5,Data Analyst,Tier 3,"Telugu, Kannada, English",Bangalore,0
+Candidate_599,PhD,0.8,"Node.js, NLP, TensorFlow, C++, Machine Learning",0,Backend Developer,Tier 2,"Hindi, English",Delhi,1
+Candidate_600,PhD,7.6,"Flask, Keras, Seaborn, JavaScript, Node.js, React",2,ML Engineer,Tier 3,"English, Kannada",Bangalore,1
+Candidate_601,Bachelor's,7.3,"Pandas, TensorFlow, React",0,Frontend Developer,Tier 2,"Kannada, Telugu",Mumbai,1
+Candidate_602,Bachelor's,3.3,"Keras, AWS, TensorFlow",3,Frontend Developer,Tier 1,"Telugu, Tamil, Hindi",Bangalore,0
+Candidate_603,PhD,0.9,"Machine Learning, Python, Pandas, Deep Learning",0,ML Engineer,Tier 3,"Kannada, Telugu",Bangalore,0
+Candidate_604,PhD,6.2,"Seaborn, Node.js, Keras, AWS, Spark",2,Data Analyst,Tier 3,"Kannada, Telugu, English",Mumbai,0
+Candidate_605,PhD,4.6,"Matplotlib, Django, Seaborn",3,Data Analyst,Tier 3,"English, Telugu, Tamil",Pune,0
+Candidate_606,PhD,6.4,"NLP, Python, AWS",4,ML Engineer,Tier 2,Kannada,Mumbai,0
+Candidate_607,Master's,0.2,"JavaScript, Python, C++, AWS",3,Frontend Developer,Tier 3,"Kannada, Hindi, Telugu",Bangalore,0
+Candidate_608,Master's,9.8,"Spark, NLP, JavaScript",0,ML Engineer,Tier 3,"English, Telugu",Mumbai,0
+Candidate_609,Master's,2.9,"JavaScript, NumPy, Machine Learning",3,Data Analyst,Tier 1,Kannada,Pune,0
+Candidate_610,PhD,5.5,"C++, Spark, TensorFlow, JavaScript, Keras",2,Backend Developer,Tier 3,"Tamil, English",Mumbai,0
+Candidate_611,Bachelor's,8.1,"NLP, Flask, JavaScript, SQL, AWS",5,Frontend Developer,Tier 1,"Telugu, Hindi",Bangalore,0
+Candidate_612,PhD,1.4,"NumPy, Python, Spark, Java, C++",5,ML Engineer,Tier 3,"Telugu, Tamil",Bangalore,0
+Candidate_613,Master's,1.7,"Flask, NumPy, React, Matplotlib",1,Data Analyst,Tier 3,"English, Kannada",Bangalore,0
+Candidate_614,Master's,5.2,"React, Flask, Pandas, Django",0,Backend Developer,Tier 1,"Kannada, Tamil",Bangalore,1
+Candidate_615,Master's,0.7,"Seaborn, Java, C++, SQL, NLP",0,Data Analyst,Tier 2,English,Chennai,0
+Candidate_616,Bachelor's,4.3,"NLP, Django, Pandas",0,Data Analyst,Tier 1,Telugu,Bangalore,0
+Candidate_617,Master's,5.9,"Python, NumPy, Flask",5,Data Scientist,Tier 3,"Kannada, Tamil",Pune,1
+Candidate_618,Master's,2.3,"Spark, Matplotlib, Pandas, Keras",4,Data Analyst,Tier 2,"Hindi, Tamil",Chennai,0
+Candidate_619,Master's,7.7,"C++, Matplotlib, JavaScript, NumPy, Node.js, TensorFlow",2,Data Analyst,Tier 3,English,Chennai,0
+Candidate_620,Master's,0.5,"Seaborn, TensorFlow, Django, React, C++",3,Frontend Developer,Tier 3,"Telugu, Tamil",Delhi,0
+Candidate_621,Bachelor's,3.4,"Keras, Matplotlib, Java, TensorFlow",2,Data Analyst,Tier 3,"Telugu, Hindi",Delhi,0
+Candidate_622,PhD,2.2,"Machine Learning, Seaborn, Matplotlib, Node.js, AWS",1,Frontend Developer,Tier 2,"Tamil, Telugu, English",Delhi,1
+Candidate_623,Bachelor's,3.3,"Pandas, AWS, Flask",5,Data Scientist,Tier 2,"Tamil, Kannada, English",Chennai,0
+Candidate_624,Master's,1.6,"Python, Java, Seaborn, Deep Learning",2,Data Scientist,Tier 3,"Tamil, English, Kannada",Delhi,0
+Candidate_625,Bachelor's,8.9,"C++, SQL, Pandas",4,ML Engineer,Tier 3,Hindi,Chennai,0
+Candidate_626,Master's,7.0,"TensorFlow, Java, React, Seaborn, Python, Node.js",5,Data Analyst,Tier 1,"Tamil, English",Pune,0
+Candidate_627,Bachelor's,10.0,"JavaScript, React, Pandas",2,Data Analyst,Tier 1,Hindi,Mumbai,0
+Candidate_628,PhD,9.2,"Deep Learning, SQL, AWS",1,Backend Developer,Tier 2,"Kannada, Tamil, Hindi",Pune,1
+Candidate_629,PhD,3.4,"Machine Learning, Java, NumPy, SQL, Pandas, NLP",1,Backend Developer,Tier 3,Tamil,Pune,0
+Candidate_630,PhD,5.9,"Python, Django, C++, Java, AWS",3,Frontend Developer,Tier 3,Tamil,Pune,1
+Candidate_631,Bachelor's,2.0,"Python, Flask, NLP",1,Data Scientist,Tier 2,Kannada,Delhi,1
+Candidate_632,PhD,9.7,"C++, AWS, Seaborn, Machine Learning, SQL",1,Frontend Developer,Tier 3,Kannada,Chennai,1
+Candidate_633,Master's,7.6,"NLP, Spark, Deep Learning, JavaScript",0,Frontend Developer,Tier 1,Telugu,Mumbai,0
+Candidate_634,PhD,9.4,"Python, TensorFlow, Keras",4,Data Scientist,Tier 2,"Telugu, Kannada, Hindi",Bangalore,0
+Candidate_635,PhD,9.0,"Matplotlib, Flask, JavaScript, Node.js, AWS, Machine Learning",2,Frontend Developer,Tier 2,English,Bangalore,0
+Candidate_636,Master's,4.9,"React, Deep Learning, Spark, Python, Node.js, C++",5,Frontend Developer,Tier 1,"Hindi, Telugu",Chennai,1
+Candidate_637,Master's,1.3,"React, Machine Learning, SQL, Pandas, Flask, C++",4,Data Scientist,Tier 3,"Hindi, Kannada, English",Chennai,0
+Candidate_638,Master's,8.6,"Python, Java, Spark",5,ML Engineer,Tier 1,"Hindi, English",Pune,1
+Candidate_639,PhD,5.6,"Matplotlib, Flask, Django, Python, JavaScript, Pandas",0,Data Scientist,Tier 2,Hindi,Delhi,0
+Candidate_640,Bachelor's,2.8,"Pandas, Deep Learning, Seaborn, AWS, Spark",4,Backend Developer,Tier 3,"Kannada, Telugu, Hindi",Hyderabad,0
+Candidate_641,Master's,0.5,"Keras, React, Python, JavaScript",3,Frontend Developer,Tier 1,Tamil,Mumbai,0
+Candidate_642,Master's,8.9,"Python, Pandas, SQL, C++",2,Backend Developer,Tier 3,Hindi,Hyderabad,0
+Candidate_643,Master's,7.0,"SQL, React, C++, NLP",4,Data Scientist,Tier 2,"English, Tamil, Telugu",Bangalore,0
+Candidate_644,Master's,1.1,"Matplotlib, Keras, Node.js",4,Frontend Developer,Tier 3,Kannada,Chennai,0
+Candidate_645,PhD,7.5,"React, SQL, TensorFlow, Matplotlib, Java, NLP",0,Frontend Developer,Tier 2,"Kannada, Hindi, English",Delhi,1
+Candidate_646,Master's,6.1,"Matplotlib, Spark, NumPy, React",4,Frontend Developer,Tier 2,English,Delhi,0
+Candidate_647,Bachelor's,1.7,"React, Python, Java, AWS, Node.js, Machine Learning",2,Data Analyst,Tier 1,Hindi,Bangalore,0
+Candidate_648,Master's,0.9,"NumPy, Flask, Node.js, JavaScript, SQL",0,ML Engineer,Tier 2,"Kannada, Hindi, Tamil",Bangalore,1
+Candidate_649,PhD,1.3,"JavaScript, Java, Node.js",0,Frontend Developer,Tier 3,Hindi,Hyderabad,1
+Candidate_650,Bachelor's,7.2,"NLP, JavaScript, SQL, Django, AWS, NumPy",1,Data Scientist,Tier 1,"English, Telugu, Hindi",Bangalore,1
+Candidate_651,Master's,2.5,"Python, Java, NLP, Django",3,ML Engineer,Tier 2,"English, Hindi, Kannada",Bangalore,0
+Candidate_652,PhD,0.2,"AWS, C++, Keras, Spark",3,Frontend Developer,Tier 3,Hindi,Delhi,0
+Candidate_653,PhD,9.6,"SQL, Python, Flask, Django",5,Data Analyst,Tier 1,"Telugu, Kannada, English",Hyderabad,1
+Candidate_654,PhD,0.8,"SQL, Keras, NumPy, Python",4,Data Scientist,Tier 3,"Telugu, Kannada",Mumbai,0
+Candidate_655,Bachelor's,3.8,"JavaScript, C++, Matplotlib, TensorFlow, NLP, React",0,Frontend Developer,Tier 2,"English, Telugu",Mumbai,0
+Candidate_656,Master's,9.8,"AWS, Node.js, Django, Keras, NLP",0,Frontend Developer,Tier 2,Telugu,Hyderabad,0
+Candidate_657,Bachelor's,8.5,"JavaScript, Keras, SQL, C++, Machine Learning, Matplotlib",2,Backend Developer,Tier 3,Tamil,Pune,1
+Candidate_658,PhD,7.0,"JavaScript, SQL, Matplotlib, Seaborn, Java",4,ML Engineer,Tier 3,"Kannada, English, Tamil",Delhi,1
+Candidate_659,Master's,1.5,"Machine Learning, C++, TensorFlow, Flask",1,Backend Developer,Tier 1,Tamil,Mumbai,0
+Candidate_660,Bachelor's,8.9,"NLP, Seaborn, Django",1,Backend Developer,Tier 1,Hindi,Bangalore,0
+Candidate_661,Bachelor's,7.1,"Matplotlib, NumPy, TensorFlow, Python, NLP",5,Frontend Developer,Tier 2,"Telugu, Tamil, Hindi",Chennai,0
+Candidate_662,Master's,4.0,"Deep Learning, Node.js, NLP, Django, Keras",2,Data Analyst,Tier 2,"Telugu, Kannada",Bangalore,0
+Candidate_663,Master's,2.1,"JavaScript, C++, React, Deep Learning, Machine Learning",2,Data Scientist,Tier 1,"Tamil, Kannada, Telugu",Bangalore,0
+Candidate_664,Master's,1.9,"AWS, JavaScript, Deep Learning, NLP, TensorFlow, Node.js",2,ML Engineer,Tier 1,Telugu,Chennai,0
+Candidate_665,Bachelor's,2.4,"Flask, React, TensorFlow",0,Frontend Developer,Tier 3,"Kannada, Hindi",Hyderabad,0
+Candidate_666,Bachelor's,9.4,"Machine Learning, Deep Learning, AWS",1,Data Scientist,Tier 2,Telugu,Hyderabad,0
+Candidate_667,Bachelor's,9.6,"Python, Seaborn, SQL",3,Data Analyst,Tier 1,English,Bangalore,1
+Candidate_668,Master's,7.3,"C++, Seaborn, Flask, Deep Learning, React, SQL",2,Frontend Developer,Tier 1,"Kannada, Telugu",Chennai,1
+Candidate_669,Master's,8.4,"Java, SQL, NumPy, Node.js, React, Keras",5,Data Scientist,Tier 2,"Hindi, Kannada",Mumbai,0
+Candidate_670,Master's,4.5,"TensorFlow, Deep Learning, Keras, Node.js, Matplotlib, Django",0,Data Scientist,Tier 1,"English, Tamil, Kannada",Mumbai,0
+Candidate_671,PhD,0.6,"Deep Learning, Matplotlib, Java, Seaborn, Python",1,ML Engineer,Tier 1,"Hindi, English, Kannada",Hyderabad,1
+Candidate_672,Master's,4.6,"SQL, Keras, Python, Machine Learning",1,Data Analyst,Tier 1,Telugu,Delhi,0
+Candidate_673,PhD,6.9,"React, Java, Node.js, SQL, Seaborn, NumPy",4,Frontend Developer,Tier 1,"Telugu, Hindi, Tamil",Bangalore,0
+Candidate_674,PhD,6.4,"Django, NLP, JavaScript, Spark, Matplotlib, Keras",5,Backend Developer,Tier 1,Hindi,Pune,1
+Candidate_675,PhD,7.7,"Django, Node.js, Matplotlib, React, Python, JavaScript",2,ML Engineer,Tier 1,"Hindi, Kannada",Hyderabad,0
+Candidate_676,Master's,4.3,"Java, NumPy, TensorFlow, C++, AWS",4,ML Engineer,Tier 1,"Kannada, Telugu",Bangalore,0
+Candidate_677,PhD,8.1,"TensorFlow, Java, SQL, Python",3,Data Scientist,Tier 1,"Kannada, Hindi",Delhi,0
+Candidate_678,PhD,5.6,"C++, NumPy, Keras, Flask",4,Frontend Developer,Tier 2,Tamil,Mumbai,1
+Candidate_679,Master's,1.3,"Node.js, JavaScript, Spark, React",5,Data Analyst,Tier 1,"Tamil, Kannada, English",Chennai,0
+Candidate_680,PhD,9.9,"React, AWS, NLP, TensorFlow",0,ML Engineer,Tier 3,"Hindi, Tamil",Pune,0
+Candidate_681,Bachelor's,9.0,"NumPy, Django, C++, SQL",4,Data Scientist,Tier 3,"Tamil, English",Hyderabad,0
+Candidate_682,Bachelor's,4.9,"Django, Seaborn, Machine Learning, SQL, Deep Learning",1,Data Scientist,Tier 1,Telugu,Hyderabad,1
+Candidate_683,Master's,6.6,"TensorFlow, Django, NumPy, NLP, AWS",0,Frontend Developer,Tier 2,Tamil,Chennai,1
+Candidate_684,Master's,5.7,"C++, NLP, AWS, Keras",5,Frontend Developer,Tier 3,"Tamil, Kannada, Hindi",Chennai,0
+Candidate_685,Bachelor's,5.7,"Spark, TensorFlow, Node.js",4,Frontend Developer,Tier 2,"Hindi, English",Mumbai,0
+Candidate_686,Bachelor's,8.1,"Flask, React, Keras",1,Data Scientist,Tier 3,"English, Hindi",Pune,0
+Candidate_687,PhD,0.9,"C++, Node.js, Django, Keras, TensorFlow",3,Data Analyst,Tier 2,"English, Telugu",Hyderabad,0
+Candidate_688,Bachelor's,1.6,"NumPy, Django, C++, React, JavaScript, Spark",5,ML Engineer,Tier 1,"Tamil, Telugu",Pune,0
+Candidate_689,PhD,4.2,"Node.js, Spark, Machine Learning, AWS",0,Data Analyst,Tier 2,"Tamil, Hindi",Bangalore,0
+Candidate_690,PhD,6.7,"React, Django, SQL, JavaScript, Java",1,Data Scientist,Tier 2,Tamil,Mumbai,0
+Candidate_691,Master's,2.7,"Spark, Pandas, Machine Learning, NumPy, Python",5,Data Scientist,Tier 2,"Telugu, Kannada, Hindi",Chennai,0
+Candidate_692,PhD,6.7,"NumPy, TensorFlow, Machine Learning, Pandas, Matplotlib, AWS",2,Data Scientist,Tier 1,"Tamil, Telugu",Pune,0
+Candidate_693,Bachelor's,2.6,"Java, Python, Keras, Django, NLP",2,Backend Developer,Tier 1,"Telugu, Tamil, Kannada",Mumbai,0
+Candidate_694,PhD,1.9,"Pandas, C++, SQL, NLP, JavaScript, Machine Learning",5,ML Engineer,Tier 1,Tamil,Delhi,0
+Candidate_695,Master's,7.2,"NLP, AWS, SQL, React",4,Backend Developer,Tier 3,Telugu,Chennai,0
+Candidate_696,Bachelor's,9.9,"AWS, Machine Learning, Matplotlib, Deep Learning, TensorFlow",2,Frontend Developer,Tier 2,Tamil,Chennai,0
+Candidate_697,Master's,8.7,"Django, Machine Learning, Flask, C++, Spark",4,Data Scientist,Tier 3,"Hindi, Kannada, Tamil",Chennai,0
+Candidate_698,Master's,5.8,"Django, Spark, Flask, Keras, Seaborn",0,Data Analyst,Tier 3,"Kannada, Hindi, English",Hyderabad,1
+Candidate_699,Bachelor's,5.9,"JavaScript, NumPy, Node.js, Matplotlib, Flask, Java",1,Backend Developer,Tier 1,"Telugu, Hindi, English",Pune,0
+Candidate_700,Bachelor's,1.2,"Java, NumPy, Deep Learning, Machine Learning, NLP, SQL",2,ML Engineer,Tier 2,"Hindi, Kannada, English",Hyderabad,0
+Candidate_701,Bachelor's,0.4,"Spark, Keras, Machine Learning, TensorFlow, C++",1,Data Analyst,Tier 1,Hindi,Pune,0
+Candidate_702,Master's,1.1,"Node.js, Pandas, Deep Learning",3,Frontend Developer,Tier 3,"Hindi, Tamil",Delhi,0
+Candidate_703,Master's,6.3,"Python, Seaborn, Keras, C++, Node.js, Java",2,Frontend Developer,Tier 1,"Tamil, Telugu",Mumbai,0
+Candidate_704,Bachelor's,0.8,"Seaborn, AWS, NLP, Java",1,Frontend Developer,Tier 1,"Hindi, Kannada",Bangalore,1
+Candidate_705,Bachelor's,1.9,"Machine Learning, React, Flask, Keras, Node.js, Deep Learning",0,Data Scientist,Tier 3,"Kannada, Telugu",Delhi,0
+Candidate_706,PhD,6.9,"Seaborn, Python, Java, Deep Learning, JavaScript, Machine Learning",2,ML Engineer,Tier 1,English,Pune,1
+Candidate_707,PhD,9.7,"Machine Learning, C++, Pandas, Flask, Node.js, Python",2,Backend Developer,Tier 1,Hindi,Delhi,1
+Candidate_708,Master's,9.5,"React, Seaborn, Flask, Keras",3,Frontend Developer,Tier 2,"Hindi, Kannada, English",Hyderabad,0
+Candidate_709,PhD,9.9,"Python, JavaScript, AWS, Spark",2,ML Engineer,Tier 1,Hindi,Bangalore,0
+Candidate_710,Bachelor's,0.2,"Flask, Keras, Pandas, Seaborn",0,Data Scientist,Tier 2,"Tamil, English",Mumbai,0
+Candidate_711,Master's,1.4,"AWS, NLP, Deep Learning, Django, Java, C++",2,Frontend Developer,Tier 1,Hindi,Pune,0
+Candidate_712,PhD,5.6,"NumPy, React, Django, Python, Node.js",2,Backend Developer,Tier 3,"Telugu, English",Delhi,0
+Candidate_713,PhD,8.0,"C++, Pandas, React",1,Backend Developer,Tier 2,Telugu,Pune,0
+Candidate_714,Master's,9.2,"Seaborn, Pandas, SQL, NumPy, Matplotlib",2,Frontend Developer,Tier 3,"Hindi, Tamil, English",Mumbai,0
+Candidate_715,Master's,6.4,"Seaborn, Pandas, JavaScript, NumPy",5,Backend Developer,Tier 1,Hindi,Chennai,0
+Candidate_716,PhD,0.4,"TensorFlow, AWS, Seaborn, Machine Learning, Flask",4,Backend Developer,Tier 2,Hindi,Mumbai,1
+Candidate_717,PhD,7.7,"React, SQL, JavaScript",0,Data Scientist,Tier 1,"Telugu, English, Kannada",Pune,1
+Candidate_718,Master's,9.8,"AWS, Java, C++, Pandas, Spark, Keras",3,Frontend Developer,Tier 3,Kannada,Hyderabad,0
+Candidate_719,Master's,1.0,"NLP, React, Deep Learning, SQL, NumPy",0,Backend Developer,Tier 2,"Tamil, Hindi",Hyderabad,0
+Candidate_720,PhD,4.5,"Python, NLP, Machine Learning, JavaScript",1,Data Scientist,Tier 2,"Tamil, Kannada, Telugu",Pune,0
+Candidate_721,Master's,8.5,"Node.js, Python, Seaborn, AWS",1,Frontend Developer,Tier 2,Tamil,Delhi,0
+Candidate_722,PhD,5.0,"Python, Flask, Pandas, AWS, React",0,Frontend Developer,Tier 2,"Tamil, English, Kannada",Chennai,0
+Candidate_723,Bachelor's,7.9,"NumPy, Flask, React, TensorFlow, Keras, Deep Learning",5,Backend Developer,Tier 3,"Tamil, Telugu, English",Chennai,0
+Candidate_724,Bachelor's,4.5,"NumPy, Deep Learning, React, Seaborn, NLP, Machine Learning",1,Data Scientist,Tier 2,"Kannada, English",Hyderabad,0
+Candidate_725,PhD,1.3,"Spark, React, JavaScript, Machine Learning, SQL",0,Frontend Developer,Tier 2,English,Hyderabad,1
+Candidate_726,PhD,3.2,"Django, Keras, AWS, Pandas, JavaScript, Deep Learning",3,Backend Developer,Tier 3,"Hindi, English",Mumbai,1
+Candidate_727,Master's,0.8,"AWS, Matplotlib, Python, Deep Learning, SQL",1,Backend Developer,Tier 1,"Kannada, English, Telugu",Chennai,1
+Candidate_728,PhD,5.3,"React, C++, Spark, AWS",1,Data Scientist,Tier 1,Tamil,Pune,1
+Candidate_729,Master's,5.1,"NLP, Seaborn, JavaScript",3,Data Analyst,Tier 2,"Tamil, English",Bangalore,0
+Candidate_730,PhD,1.1,"Flask, Seaborn, Spark, Java, TensorFlow",2,Frontend Developer,Tier 3,English,Mumbai,1
+Candidate_731,Bachelor's,5.7,"Pandas, Matplotlib, NumPy, Django, Deep Learning, Flask",2,ML Engineer,Tier 2,"Tamil, English",Delhi,0
+Candidate_732,Master's,7.2,"Machine Learning, React, SQL, JavaScript",5,ML Engineer,Tier 1,Hindi,Hyderabad,1
+Candidate_733,Bachelor's,3.1,"Java, Machine Learning, React",4,Frontend Developer,Tier 1,"Telugu, English",Bangalore,0
+Candidate_734,Master's,8.6,"JavaScript, Keras, Flask, Matplotlib, SQL, Deep Learning",1,Data Analyst,Tier 1,"Kannada, English, Telugu",Hyderabad,0
+Candidate_735,Master's,4.2,"React, Python, Java",0,Frontend Developer,Tier 3,Kannada,Chennai,1
+Candidate_736,Bachelor's,5.4,"SQL, Python, Deep Learning, Java",2,Backend Developer,Tier 3,Kannada,Pune,0
+Candidate_737,Bachelor's,9.4,"Keras, React, Java, Seaborn",3,ML Engineer,Tier 2,Telugu,Mumbai,0
+Candidate_738,Bachelor's,8.6,"Seaborn, Node.js, Matplotlib, TensorFlow",5,Backend Developer,Tier 2,"English, Tamil",Pune,0
+Candidate_739,Bachelor's,8.8,"React, TensorFlow, Pandas, SQL, Django, Node.js",4,Frontend Developer,Tier 1,English,Hyderabad,1
+Candidate_740,Bachelor's,6.6,"Node.js, Django, JavaScript, SQL",5,Data Analyst,Tier 3,Tamil,Hyderabad,1
+Candidate_741,Master's,7.4,"Matplotlib, NumPy, Deep Learning",5,Data Scientist,Tier 2,"Telugu, English",Pune,0
+Candidate_742,Bachelor's,4.2,"Spark, React, Python, Matplotlib, SQL",5,Frontend Developer,Tier 1,"Hindi, Telugu, Tamil",Mumbai,0
+Candidate_743,Master's,1.2,"NLP, Spark, Keras",4,Data Analyst,Tier 3,"Tamil, Kannada, Telugu",Mumbai,0
+Candidate_744,Bachelor's,7.3,"JavaScript, TensorFlow, Spark",2,ML Engineer,Tier 1,"Tamil, English, Telugu",Chennai,0
+Candidate_745,Master's,2.0,"Deep Learning, AWS, Django, Flask",5,ML Engineer,Tier 1,"Tamil, Hindi",Delhi,0
+Candidate_746,PhD,0.2,"NumPy, JavaScript, Keras, Seaborn, Machine Learning",0,ML Engineer,Tier 2,"English, Kannada",Delhi,0
+Candidate_747,PhD,4.6,"Flask, Seaborn, NLP, Machine Learning, TensorFlow, JavaScript",0,Data Analyst,Tier 3,"Tamil, English, Hindi",Mumbai,0
+Candidate_748,Bachelor's,2.9,"Matplotlib, Deep Learning, Node.js, TensorFlow, SQL, Seaborn",2,Data Analyst,Tier 2,"Tamil, English",Delhi,0
+Candidate_749,Bachelor's,6.6,"Python, Deep Learning, React, SQL, Java, C++",3,Backend Developer,Tier 1,"Telugu, Tamil",Delhi,1
+Candidate_750,PhD,9.0,"Seaborn, React, Flask",4,Frontend Developer,Tier 1,English,Delhi,0
+Candidate_751,PhD,5.7,"Java, Deep Learning, NumPy, Machine Learning",5,Data Analyst,Tier 3,"Telugu, Tamil, Kannada",Bangalore,0
+Candidate_752,PhD,3.5,"Python, JavaScript, Pandas, NLP",0,Data Scientist,Tier 1,"Tamil, Telugu, Kannada",Mumbai,0
+Candidate_753,Bachelor's,5.9,"Node.js, Python, NLP, TensorFlow, Machine Learning",0,Data Analyst,Tier 3,Telugu,Delhi,0
+Candidate_754,PhD,8.4,"Keras, Pandas, Java, Matplotlib, NumPy",5,Data Scientist,Tier 3,"Hindi, Telugu",Pune,0
+Candidate_755,Bachelor's,0.3,"Keras, NLP, SQL, Java",1,Frontend Developer,Tier 2,"Hindi, English",Mumbai,1
+Candidate_756,Master's,2.7,"Keras, Seaborn, TensorFlow, NLP, React",2,Data Scientist,Tier 1,Tamil,Chennai,0
+Candidate_757,PhD,6.0,"JavaScript, Deep Learning, Keras, React, Matplotlib, Seaborn",1,Data Scientist,Tier 2,Hindi,Pune,0
+Candidate_758,PhD,6.6,"Python, Flask, NumPy, Machine Learning, Seaborn, Pandas",3,Frontend Developer,Tier 3,"Tamil, Hindi",Delhi,0
+Candidate_759,Master's,3.3,"Django, Seaborn, AWS",2,Data Scientist,Tier 1,Tamil,Chennai,0
+Candidate_760,PhD,3.5,"React, Java, Python",5,Backend Developer,Tier 3,English,Bangalore,0
+Candidate_761,PhD,7.8,"JavaScript, Pandas, NumPy, React",3,Frontend Developer,Tier 3,"Hindi, Tamil, Telugu",Chennai,0
+Candidate_762,PhD,6.8,"React, AWS, Machine Learning, Spark, NLP",1,Frontend Developer,Tier 1,"Tamil, Telugu, Hindi",Delhi,0
+Candidate_763,Bachelor's,4.5,"Deep Learning, Java, Matplotlib",5,Data Scientist,Tier 3,Tamil,Mumbai,0
+Candidate_764,Master's,3.1,"Django, NLP, Node.js, Spark, JavaScript, NumPy",3,Data Analyst,Tier 3,"English, Telugu",Bangalore,1
+Candidate_765,Master's,5.8,"Node.js, Flask, Machine Learning, AWS, Java, React",1,ML Engineer,Tier 1,Hindi,Bangalore,0
+Candidate_766,PhD,2.2,"C++, Node.js, Django",5,Data Analyst,Tier 1,"English, Telugu",Delhi,1
+Candidate_767,PhD,8.9,"NLP, React, NumPy",4,ML Engineer,Tier 2,"Telugu, Hindi, Kannada",Pune,0
+Candidate_768,Bachelor's,3.1,"Pandas, Machine Learning, Keras",2,Backend Developer,Tier 3,Telugu,Delhi,1
+Candidate_769,Bachelor's,1.0,"NLP, Keras, NumPy",1,Frontend Developer,Tier 2,"English, Telugu",Mumbai,0
+Candidate_770,PhD,3.8,"Spark, TensorFlow, C++, Machine Learning",1,Backend Developer,Tier 1,"Kannada, Tamil, Hindi",Pune,1
+Candidate_771,Master's,2.6,"Java, Spark, Python, AWS, SQL",0,Data Analyst,Tier 2,"Hindi, English",Delhi,0
+Candidate_772,Bachelor's,8.3,"React, SQL, C++, Keras, Machine Learning",2,Backend Developer,Tier 2,"Kannada, Tamil",Delhi,0
+Candidate_773,PhD,6.2,"Spark, NLP, Pandas, React, AWS, Keras",3,Frontend Developer,Tier 3,"Kannada, Hindi",Delhi,0
+Candidate_774,PhD,1.1,"React, JavaScript, C++",3,Data Analyst,Tier 3,"English, Hindi, Telugu",Delhi,0
+Candidate_775,PhD,1.9,"C++, Pandas, Python, Deep Learning, Machine Learning, Spark",2,Frontend Developer,Tier 2,Telugu,Mumbai,1
+Candidate_776,Bachelor's,5.2,"Matplotlib, SQL, C++, React, Node.js, Deep Learning",0,Backend Developer,Tier 2,"Kannada, English",Bangalore,0
+Candidate_777,PhD,2.5,"Seaborn, C++, Flask, Deep Learning, Python, Pandas",0,Data Analyst,Tier 3,"Hindi, English, Kannada",Mumbai,0
+Candidate_778,PhD,0.5,"JavaScript, Seaborn, Keras, Spark, Node.js",1,Frontend Developer,Tier 3,"Kannada, English",Pune,0
+Candidate_779,Master's,9.6,"Deep Learning, Node.js, JavaScript",5,ML Engineer,Tier 3,English,Delhi,0
+Candidate_780,Bachelor's,7.9,"Python, Django, Seaborn",1,Data Analyst,Tier 2,Tamil,Chennai,1
+Candidate_781,Bachelor's,2.4,"Java, Spark, AWS, Matplotlib, Deep Learning, Keras",4,Data Scientist,Tier 3,English,Chennai,1
+Candidate_782,Master's,0.6,"Machine Learning, Node.js, Pandas, Spark",3,Data Scientist,Tier 3,"Telugu, Hindi, Kannada",Mumbai,1
+Candidate_783,Bachelor's,9.2,"Node.js, NLP, Matplotlib",5,Data Analyst,Tier 1,Tamil,Hyderabad,0
+Candidate_784,PhD,0.6,"Deep Learning, Seaborn, AWS",3,Data Scientist,Tier 2,"Hindi, English",Pune,0
+Candidate_785,Master's,8.6,"Django, Spark, NumPy, React, NLP, Matplotlib",0,Data Scientist,Tier 1,"Kannada, English",Pune,0
+Candidate_786,Bachelor's,8.4,"NumPy, AWS, React, Pandas",0,Backend Developer,Tier 2,"Telugu, Kannada, English",Chennai,0
+Candidate_787,Bachelor's,2.9,"TensorFlow, Flask, Spark",0,ML Engineer,Tier 1,"Telugu, Tamil, Kannada",Hyderabad,0
+Candidate_788,Master's,5.4,"Keras, Flask, Java, NLP, SQL",0,Backend Developer,Tier 3,Hindi,Mumbai,0
+Candidate_789,Bachelor's,0.1,"NumPy, Keras, Node.js, Spark",1,Data Analyst,Tier 2,"Tamil, Kannada, Hindi",Bangalore,1
+Candidate_790,PhD,7.5,"Spark, Deep Learning, Node.js, Python",4,ML Engineer,Tier 1,"Telugu, Kannada",Chennai,0
+Candidate_791,PhD,7.6,"Spark, React, AWS",4,Data Analyst,Tier 2,"Kannada, Telugu, Hindi",Chennai,1
+Candidate_792,Master's,1.1,"Deep Learning, Seaborn, Pandas, JavaScript",3,Data Scientist,Tier 1,Telugu,Delhi,0
+Candidate_793,PhD,9.9,"TensorFlow, Flask, Java",1,Frontend Developer,Tier 3,"Kannada, English, Tamil",Mumbai,1
+Candidate_794,Bachelor's,5.5,"NLP, Matplotlib, Django, Seaborn, Node.js, NumPy",2,ML Engineer,Tier 2,Hindi,Pune,0
+Candidate_795,Bachelor's,6.1,"NLP, Node.js, Matplotlib",5,ML Engineer,Tier 1,"Hindi, Telugu, English",Chennai,1
+Candidate_796,Master's,7.9,"Flask, C++, React",1,Data Scientist,Tier 3,"Tamil, Telugu, Hindi",Hyderabad,0
+Candidate_797,Bachelor's,2.7,"C++, Python, Java, NumPy, Flask",0,Data Analyst,Tier 2,"Hindi, English",Bangalore,0
+Candidate_798,PhD,4.8,"SQL, JavaScript, Spark, Flask, Pandas",0,Data Analyst,Tier 3,"Hindi, Telugu",Chennai,1
+Candidate_799,PhD,4.1,"React, NLP, C++, NumPy",2,Backend Developer,Tier 1,"Hindi, Kannada",Mumbai,0
+Candidate_800,Bachelor's,1.1,"Java, Node.js, Machine Learning",3,Data Analyst,Tier 3,"Hindi, English",Mumbai,0
+Candidate_801,Bachelor's,1.5,"Pandas, React, Java, JavaScript, Seaborn, Python",4,Frontend Developer,Tier 1,"Telugu, Hindi",Bangalore,1
+Candidate_802,PhD,3.6,"Seaborn, Spark, Python, AWS, Deep Learning, Django",3,Data Analyst,Tier 1,Telugu,Hyderabad,0
+Candidate_803,Bachelor's,3.3,"Python, Pandas, Node.js",4,ML Engineer,Tier 1,"Telugu, Hindi, English",Bangalore,0
+Candidate_804,Bachelor's,2.0,"Spark, Java, Matplotlib, NumPy, C++, Deep Learning",3,ML Engineer,Tier 1,Tamil,Chennai,0
+Candidate_805,PhD,7.7,"SQL, NumPy, AWS, React, C++, Django",0,ML Engineer,Tier 1,"English, Hindi",Hyderabad,0
+Candidate_806,Master's,2.9,"React, NLP, JavaScript, C++",5,ML Engineer,Tier 2,Hindi,Delhi,0
+Candidate_807,Master's,7.6,"Python, Spark, Flask, Machine Learning",5,ML Engineer,Tier 2,Telugu,Delhi,1
+Candidate_808,Bachelor's,2.1,"Keras, NLP, Deep Learning, SQL",1,Backend Developer,Tier 1,"Telugu, Tamil, Kannada",Delhi,0
+Candidate_809,Bachelor's,9.7,"Flask, NLP, Spark, Seaborn",0,ML Engineer,Tier 1,Kannada,Pune,0
+Candidate_810,Bachelor's,3.2,"React, Keras, Seaborn",3,Frontend Developer,Tier 3,"Tamil, Telugu",Delhi,1
+Candidate_811,Master's,7.9,"JavaScript, Node.js, Pandas, TensorFlow, Java, Seaborn",0,Data Analyst,Tier 2,"Tamil, English",Delhi,0
+Candidate_812,PhD,2.3,"Spark, SQL, Java",3,Frontend Developer,Tier 3,English,Mumbai,0
+Candidate_813,Master's,0.4,"Spark, Matplotlib, Node.js, TensorFlow, JavaScript, Keras",1,Frontend Developer,Tier 2,"Tamil, Telugu, Hindi",Mumbai,1
+Candidate_814,Bachelor's,5.0,"Django, Spark, Matplotlib",3,Frontend Developer,Tier 1,English,Hyderabad,0
+Candidate_815,Bachelor's,10.0,"NumPy, JavaScript, Python, NLP",2,Data Scientist,Tier 1,English,Bangalore,1
+Candidate_816,Bachelor's,5.5,"Django, Machine Learning, TensorFlow, Pandas, AWS, Spark",0,Data Analyst,Tier 3,"Kannada, English, Telugu",Chennai,0
+Candidate_817,Bachelor's,4.1,"Python, Spark, C++",3,Data Analyst,Tier 3,Hindi,Hyderabad,1
+Candidate_818,PhD,4.9,"Spark, Seaborn, Pandas, Java, TensorFlow, Python",4,Frontend Developer,Tier 1,"Telugu, Kannada, Hindi",Mumbai,0
+Candidate_819,Bachelor's,0.4,"AWS, Spark, Matplotlib",2,Backend Developer,Tier 1,Hindi,Mumbai,0
+Candidate_820,Bachelor's,9.3,"Deep Learning, C++, Seaborn",5,Frontend Developer,Tier 2,"Hindi, Tamil, English",Bangalore,0
+Candidate_821,Bachelor's,6.4,"C++, NLP, Node.js",2,Backend Developer,Tier 2,Telugu,Chennai,0
+Candidate_822,Master's,9.4,"Machine Learning, Spark, Flask, TensorFlow, Keras",3,Backend Developer,Tier 1,Kannada,Hyderabad,1
+Candidate_823,Master's,8.8,"JavaScript, Seaborn, C++",5,Data Analyst,Tier 1,"Hindi, Telugu, Tamil",Chennai,0
+Candidate_824,Bachelor's,1.5,"JavaScript, Java, Matplotlib, NLP, C++, Django",2,Frontend Developer,Tier 2,Tamil,Pune,1
+Candidate_825,Bachelor's,4.1,"Django, NLP, Pandas, Python",0,Frontend Developer,Tier 3,Kannada,Hyderabad,0
+Candidate_826,PhD,7.0,"Seaborn, SQL, Keras",0,Backend Developer,Tier 2,"Kannada, English",Chennai,1
+Candidate_827,PhD,8.7,"SQL, Java, Spark, Pandas, React, AWS",0,Frontend Developer,Tier 1,English,Hyderabad,0
+Candidate_828,PhD,2.4,"Pandas, C++, Python, Spark",5,Backend Developer,Tier 1,"Telugu, English, Hindi",Bangalore,0
+Candidate_829,Bachelor's,0.3,"Seaborn, NLP, Python, NumPy, Keras",3,Frontend Developer,Tier 3,"Tamil, Telugu",Pune,0
+Candidate_830,Bachelor's,9.7,"React, JavaScript, Pandas, Keras, Django",5,Frontend Developer,Tier 1,Kannada,Bangalore,0
+Candidate_831,Master's,2.4,"NumPy, Node.js, Machine Learning, AWS, JavaScript",2,Backend Developer,Tier 2,Telugu,Mumbai,0
+Candidate_832,PhD,1.7,"SQL, JavaScript, Pandas, React, TensorFlow",3,Data Scientist,Tier 2,"Telugu, Tamil, Kannada",Mumbai,0
+Candidate_833,Bachelor's,8.6,"C++, Pandas, Keras, Spark, Flask",4,Frontend Developer,Tier 1,"Hindi, English, Tamil",Hyderabad,0
+Candidate_834,Master's,0.2,"SQL, Matplotlib, Machine Learning, Spark, NumPy, JavaScript",1,Backend Developer,Tier 2,Tamil,Bangalore,0
+Candidate_835,Master's,7.3,"Seaborn, JavaScript, SQL, Spark, C++, React",5,ML Engineer,Tier 3,"Tamil, Hindi, Telugu",Chennai,1
+Candidate_836,PhD,7.9,"TensorFlow, Flask, Machine Learning",5,Data Scientist,Tier 1,"Kannada, Telugu, English",Delhi,1
+Candidate_837,PhD,0.8,"Pandas, Django, Python, Keras",1,Frontend Developer,Tier 3,"Tamil, Hindi, Kannada",Bangalore,0
+Candidate_838,PhD,5.2,"Seaborn, Python, TensorFlow, AWS, Flask, Keras",0,Frontend Developer,Tier 1,Hindi,Bangalore,1
+Candidate_839,Bachelor's,8.2,"Machine Learning, Node.js, Flask, C++, React",1,Data Scientist,Tier 2,Tamil,Delhi,0
+Candidate_840,PhD,9.5,"Python, Django, NumPy, JavaScript, SQL, NLP",5,Data Analyst,Tier 1,Hindi,Bangalore,0
+Candidate_841,PhD,2.0,"Seaborn, Spark, Java, C++, Matplotlib, TensorFlow",2,Data Scientist,Tier 1,"Telugu, English",Hyderabad,1
+Candidate_842,Bachelor's,7.5,"SQL, Spark, Pandas, Keras, Java, TensorFlow",5,Data Scientist,Tier 2,Tamil,Pune,1
+Candidate_843,PhD,6.2,"Matplotlib, Flask, SQL",4,Frontend Developer,Tier 3,"Kannada, Tamil",Chennai,1
+Candidate_844,Bachelor's,6.3,"Node.js, Pandas, Deep Learning",1,Frontend Developer,Tier 3,English,Mumbai,0
+Candidate_845,Bachelor's,5.6,"Matplotlib, Python, NumPy, JavaScript, Pandas, Machine Learning",0,Backend Developer,Tier 2,Telugu,Bangalore,0
+Candidate_846,PhD,6.9,"AWS, NumPy, JavaScript",1,Backend Developer,Tier 3,"Telugu, Tamil, Hindi",Mumbai,0
+Candidate_847,Bachelor's,5.4,"Deep Learning, Django, Java, Pandas, Keras, Flask",0,Data Scientist,Tier 2,"English, Tamil, Hindi",Mumbai,0
+Candidate_848,PhD,0.3,"Flask, Machine Learning, Node.js, JavaScript",1,ML Engineer,Tier 1,Telugu,Delhi,1
+Candidate_849,Bachelor's,7.9,"AWS, TensorFlow, Seaborn, NLP, Pandas, JavaScript",3,ML Engineer,Tier 2,"Tamil, English, Hindi",Delhi,0
+Candidate_850,PhD,1.2,"JavaScript, C++, Deep Learning, Java, SQL",3,Frontend Developer,Tier 2,English,Mumbai,1
+Candidate_851,Bachelor's,2.2,"Java, Matplotlib, Flask, React, Machine Learning",1,Data Scientist,Tier 1,"Hindi, Tamil, Telugu",Chennai,0
+Candidate_852,PhD,0.7,"Python, Machine Learning, SQL",5,ML Engineer,Tier 1,Tamil,Hyderabad,0
+Candidate_853,Bachelor's,1.5,"C++, TensorFlow, NumPy, NLP, Spark",5,Frontend Developer,Tier 1,Kannada,Chennai,0
+Candidate_854,Bachelor's,3.1,"C++, Python, Deep Learning",0,Data Scientist,Tier 2,"Telugu, Tamil",Hyderabad,1
+Candidate_855,Master's,5.1,"SQL, Deep Learning, NumPy, Django, Spark, React",5,Data Scientist,Tier 1,"Telugu, Tamil",Bangalore,0
+Candidate_856,Bachelor's,2.3,"Spark, NumPy, Matplotlib, SQL, Deep Learning",2,Frontend Developer,Tier 3,Kannada,Mumbai,0
+Candidate_857,Bachelor's,2.3,"Python, JavaScript, Machine Learning, Seaborn, Keras, TensorFlow",5,Frontend Developer,Tier 2,"Telugu, Hindi",Bangalore,1
+Candidate_858,Master's,0.6,"Python, Pandas, Node.js",0,Data Analyst,Tier 2,"Tamil, Telugu",Delhi,0
+Candidate_859,PhD,7.5,"Java, Node.js, SQL, NumPy, Deep Learning, JavaScript",1,Data Analyst,Tier 1,"Tamil, English",Chennai,0
+Candidate_860,PhD,8.5,"React, TensorFlow, Java, AWS, Matplotlib, NumPy",2,ML Engineer,Tier 2,Telugu,Hyderabad,0
+Candidate_861,PhD,5.2,"Java, Pandas, Keras, Seaborn, Flask",1,Data Scientist,Tier 2,"Hindi, Kannada, Telugu",Bangalore,0
+Candidate_862,PhD,2.1,"Node.js, Seaborn, TensorFlow, NumPy, Keras",5,Backend Developer,Tier 1,Kannada,Mumbai,0
+Candidate_863,PhD,5.0,"AWS, Java, Keras, Python, Flask, NumPy",4,ML Engineer,Tier 1,English,Pune,0
+Candidate_864,Master's,7.8,"Flask, Python, NLP, Spark",5,Data Analyst,Tier 3,Telugu,Hyderabad,1
+Candidate_865,PhD,4.2,"Deep Learning, Pandas, Keras",2,Data Scientist,Tier 3,"Tamil, Telugu, Hindi",Bangalore,0
+Candidate_866,PhD,4.7,"NumPy, Deep Learning, NLP, Flask, React, Node.js",0,Data Analyst,Tier 1,Kannada,Chennai,1
+Candidate_867,Bachelor's,8.5,"Node.js, TensorFlow, JavaScript, Pandas, AWS, C++",0,Backend Developer,Tier 3,Telugu,Bangalore,0
+Candidate_868,Bachelor's,7.6,"NLP, NumPy, Keras, SQL, Spark, Java",3,Backend Developer,Tier 2,Kannada,Delhi,0
+Candidate_869,Master's,1.1,"Seaborn, TensorFlow, AWS, Django, Java",2,Backend Developer,Tier 2,"English, Hindi, Tamil",Hyderabad,1
+Candidate_870,Bachelor's,0.3,"Keras, Spark, Seaborn, Python",0,Frontend Developer,Tier 2,"Telugu, English",Bangalore,0
+Candidate_871,Master's,5.5,"Pandas, AWS, Python",1,Data Scientist,Tier 1,"English, Tamil",Pune,0
+Candidate_872,Bachelor's,9.4,"Spark, Node.js, AWS, React, Keras",3,Backend Developer,Tier 2,"Kannada, Hindi",Bangalore,0
+Candidate_873,Master's,1.6,"Pandas, Keras, Django, Python, Seaborn",4,Data Scientist,Tier 2,"English, Hindi",Chennai,1
+Candidate_874,PhD,7.3,"SQL, Django, Spark, JavaScript, Pandas",5,Backend Developer,Tier 2,Kannada,Bangalore,1
+Candidate_875,Bachelor's,8.9,"TensorFlow, Django, NLP",5,Data Scientist,Tier 3,"English, Hindi",Mumbai,0
+Candidate_876,PhD,4.2,"Deep Learning, React, Pandas, Spark, Machine Learning, Matplotlib",1,Data Analyst,Tier 3,"Kannada, Tamil, English",Mumbai,0
+Candidate_877,PhD,0.0,"Machine Learning, Python, Keras, NumPy, NLP, TensorFlow",3,Data Scientist,Tier 3,English,Delhi,0
+Candidate_878,Bachelor's,6.0,"React, C++, NLP, Machine Learning",1,Data Analyst,Tier 2,"Kannada, English, Tamil",Hyderabad,0
+Candidate_879,Bachelor's,9.0,"Node.js, Django, AWS, React, Python",1,Backend Developer,Tier 1,Tamil,Pune,0
+Candidate_880,Master's,3.4,"SQL, Django, Deep Learning",2,Frontend Developer,Tier 3,Hindi,Mumbai,1
+Candidate_881,PhD,5.0,"Node.js, AWS, Django, Spark, React",2,Backend Developer,Tier 1,"Telugu, Hindi, English",Delhi,0
+Candidate_882,Bachelor's,3.5,"SQL, JavaScript, Flask, Seaborn",0,Backend Developer,Tier 1,"Tamil, Telugu",Chennai,1
+Candidate_883,PhD,6.0,"Java, SQL, JavaScript, Django",3,ML Engineer,Tier 2,"Tamil, Kannada",Chennai,0
+Candidate_884,Bachelor's,0.7,"TensorFlow, React, Flask",5,Data Scientist,Tier 2,"Kannada, English",Delhi,0
+Candidate_885,Bachelor's,1.8,"C++, Django, SQL, NumPy, NLP, Seaborn",5,ML Engineer,Tier 2,"Telugu, Tamil",Hyderabad,0
+Candidate_886,PhD,8.5,"Flask, TensorFlow, SQL, JavaScript, Python, Pandas",4,ML Engineer,Tier 1,English,Delhi,0
+Candidate_887,PhD,1.6,"Deep Learning, JavaScript, Flask, Java, Node.js",1,Data Scientist,Tier 3,Tamil,Chennai,0
+Candidate_888,Bachelor's,3.2,"Node.js, JavaScript, SQL, Seaborn, Machine Learning",1,Data Scientist,Tier 2,"Kannada, Telugu",Pune,0
+Candidate_889,Bachelor's,2.6,"NLP, Flask, JavaScript, Seaborn",0,Data Analyst,Tier 3,"Tamil, English",Delhi,0
+Candidate_890,Bachelor's,7.4,"Machine Learning, Seaborn, NumPy",3,Data Scientist,Tier 3,"Kannada, Hindi",Hyderabad,0
+Candidate_891,Bachelor's,7.6,"NLP, SQL, AWS, Java, React, NumPy",3,Data Analyst,Tier 2,"English, Tamil",Pune,0
+Candidate_892,PhD,7.9,"Matplotlib, AWS, Node.js, React, Deep Learning",5,ML Engineer,Tier 2,Telugu,Hyderabad,1
+Candidate_893,Bachelor's,7.4,"TensorFlow, NumPy, JavaScript, React, NLP",2,Backend Developer,Tier 3,"Tamil, English",Delhi,1
+Candidate_894,Master's,1.7,"React, AWS, NLP, Python",0,Data Analyst,Tier 3,"Telugu, Hindi, Kannada",Mumbai,0
+Candidate_895,Bachelor's,5.5,"Spark, Flask, React, Python",0,Backend Developer,Tier 1,"English, Tamil",Delhi,1
+Candidate_896,PhD,1.8,"Python, Keras, TensorFlow",1,ML Engineer,Tier 2,"English, Tamil",Chennai,0
+Candidate_897,Bachelor's,9.6,"Keras, Node.js, React, C++, NumPy",2,Data Scientist,Tier 1,"English, Kannada, Tamil",Bangalore,0
+Candidate_898,PhD,2.2,"Node.js, Seaborn, React, JavaScript, Spark",2,ML Engineer,Tier 3,Telugu,Bangalore,0
+Candidate_899,PhD,0.5,"Matplotlib, JavaScript, Pandas",3,Data Scientist,Tier 2,"English, Telugu",Bangalore,0
+Candidate_900,Master's,9.8,"TensorFlow, Machine Learning, Node.js, Matplotlib",5,Frontend Developer,Tier 3,"Hindi, Telugu",Hyderabad,0
+Candidate_901,Bachelor's,2.7,"Pandas, Keras, JavaScript",1,Data Scientist,Tier 1,"English, Kannada",Pune,0
+Candidate_902,PhD,2.6,"Keras, Machine Learning, JavaScript",1,Data Scientist,Tier 2,"English, Hindi",Mumbai,0
+Candidate_903,Bachelor's,4.6,"Matplotlib, NLP, NumPy, Keras, Java, Node.js",5,Backend Developer,Tier 3,"Hindi, English",Chennai,1
+Candidate_904,Master's,8.1,"Deep Learning, AWS, SQL, Matplotlib, Pandas, Python",0,ML Engineer,Tier 3,Hindi,Chennai,0
+Candidate_905,PhD,1.8,"Machine Learning, Seaborn, Django, Pandas",2,Frontend Developer,Tier 1,"Hindi, Kannada",Chennai,1
+Candidate_906,Master's,4.3,"Node.js, Matplotlib, TensorFlow, Flask, Pandas",4,Data Scientist,Tier 2,"Tamil, Hindi, Telugu",Hyderabad,0
+Candidate_907,Master's,5.6,"Flask, Pandas, React",1,Data Analyst,Tier 3,"English, Kannada",Bangalore,0
+Candidate_908,PhD,3.4,"Deep Learning, NumPy, Flask, React, C++",3,Frontend Developer,Tier 3,"English, Kannada, Tamil",Hyderabad,0
+Candidate_909,Master's,5.3,"Keras, Java, Machine Learning, NumPy, AWS",5,Data Scientist,Tier 2,"Kannada, Tamil, Hindi",Hyderabad,0
+Candidate_910,Master's,0.5,"C++, Seaborn, Pandas, NLP, Keras, JavaScript",3,ML Engineer,Tier 2,Telugu,Delhi,0
+Candidate_911,Bachelor's,3.7,"C++, Matplotlib, NLP, Spark, Java",0,Backend Developer,Tier 3,Kannada,Bangalore,0
+Candidate_912,Bachelor's,7.8,"Deep Learning, Java, Pandas, TensorFlow, Python",2,Backend Developer,Tier 2,Tamil,Bangalore,0
+Candidate_913,Bachelor's,7.1,"Flask, Keras, Matplotlib, Django, Node.js, Python",3,ML Engineer,Tier 3,English,Mumbai,0
+Candidate_914,Master's,7.0,"Seaborn, JavaScript, React",5,Backend Developer,Tier 2,"Tamil, English, Kannada",Bangalore,0
+Candidate_915,PhD,4.5,"Deep Learning, Node.js, Matplotlib, AWS, Java, Spark",3,Backend Developer,Tier 1,"Hindi, Telugu",Mumbai,0
+Candidate_916,Bachelor's,7.4,"Deep Learning, Python, Machine Learning, JavaScript, Matplotlib",0,ML Engineer,Tier 3,"Telugu, English, Tamil",Mumbai,0
+Candidate_917,PhD,7.2,"Keras, TensorFlow, Node.js",1,Data Scientist,Tier 2,Kannada,Pune,1
+Candidate_918,Bachelor's,4.7,"Matplotlib, C++, Seaborn, React",3,Data Scientist,Tier 2,"Tamil, Hindi, English",Mumbai,0
+Candidate_919,Bachelor's,4.6,"Seaborn, Keras, Machine Learning",4,Frontend Developer,Tier 3,"Hindi, English",Hyderabad,0
+Candidate_920,PhD,7.0,"C++, Django, Deep Learning, Machine Learning",5,Data Analyst,Tier 1,"Tamil, Telugu",Mumbai,0
+Candidate_921,Bachelor's,9.9,"C++, Deep Learning, Seaborn, Pandas",1,Data Scientist,Tier 3,"Hindi, Tamil, English",Delhi,0
+Candidate_922,PhD,7.4,"Django, Java, JavaScript, C++, Pandas",5,Data Analyst,Tier 2,"English, Telugu, Tamil",Mumbai,0
+Candidate_923,PhD,2.7,"SQL, Deep Learning, Matplotlib, Java",0,ML Engineer,Tier 2,"Hindi, English, Kannada",Bangalore,0
+Candidate_924,Bachelor's,9.4,"SQL, NumPy, Java",4,Backend Developer,Tier 2,Telugu,Bangalore,0
+Candidate_925,Bachelor's,0.3,"Matplotlib, C++, Pandas",1,ML Engineer,Tier 1,"Telugu, Hindi, Tamil",Chennai,0
+Candidate_926,Master's,8.4,"Python, AWS, Pandas, JavaScript, Deep Learning",4,Backend Developer,Tier 2,"Tamil, English, Telugu",Mumbai,0
+Candidate_927,PhD,0.0,"AWS, TensorFlow, SQL",1,ML Engineer,Tier 1,Kannada,Bangalore,0
+Candidate_928,PhD,1.3,"Django, SQL, Pandas",0,Backend Developer,Tier 2,Tamil,Chennai,1
+Candidate_929,Master's,2.2,"React, Flask, Deep Learning, Matplotlib, NumPy, Pandas",0,Data Scientist,Tier 3,"Tamil, Hindi, Telugu",Hyderabad,0
+Candidate_930,PhD,8.8,"Keras, Python, C++, JavaScript",1,ML Engineer,Tier 1,Kannada,Chennai,0
+Candidate_931,PhD,4.5,"Django, TensorFlow, Pandas",0,Backend Developer,Tier 2,Telugu,Chennai,1
+Candidate_932,Bachelor's,8.4,"Java, NLP, Spark, Django, Keras",2,Data Analyst,Tier 3,"Telugu, Tamil, Hindi",Pune,1
+Candidate_933,Bachelor's,9.7,"Flask, Matplotlib, Seaborn, JavaScript, SQL, React",5,Data Analyst,Tier 2,Kannada,Chennai,0
+Candidate_934,Master's,9.4,"Keras, JavaScript, Node.js, Spark, Django, Seaborn",0,ML Engineer,Tier 2,"Kannada, Telugu, Hindi",Delhi,0
+Candidate_935,Bachelor's,1.3,"Spark, NumPy, React, JavaScript, Java",2,Backend Developer,Tier 2,Hindi,Mumbai,0
+Candidate_936,PhD,6.2,"TensorFlow, Keras, AWS",0,ML Engineer,Tier 3,"Telugu, Hindi, English",Chennai,1
+Candidate_937,Master's,6.1,"Spark, Seaborn, Django, Node.js",2,Data Analyst,Tier 2,"Kannada, Telugu, Tamil",Mumbai,1
+Candidate_938,Master's,6.1,"Keras, Python, Machine Learning, SQL, Django",2,Data Analyst,Tier 3,"Kannada, Hindi",Bangalore,0
+Candidate_939,Master's,2.0,"AWS, C++, JavaScript, Seaborn",3,Data Scientist,Tier 1,"Tamil, English",Pune,0
+Candidate_940,PhD,7.0,"JavaScript, C++, Machine Learning, Django, Java, Keras",2,Data Analyst,Tier 2,English,Hyderabad,0
+Candidate_941,PhD,8.1,"Deep Learning, JavaScript, Seaborn, NumPy, Spark, Python",4,Data Analyst,Tier 3,"Telugu, Tamil",Hyderabad,0
+Candidate_942,PhD,7.9,"Machine Learning, Python, Deep Learning, JavaScript",0,Data Analyst,Tier 2,English,Delhi,0
+Candidate_943,Master's,9.9,"AWS, SQL, Flask, TensorFlow, JavaScript, Pandas",4,Data Analyst,Tier 1,"Tamil, Telugu, Kannada",Hyderabad,1
+Candidate_944,Bachelor's,0.9,"Django, Python, Pandas, Keras, Matplotlib",0,Data Analyst,Tier 2,"Hindi, Tamil",Bangalore,0
+Candidate_945,Master's,2.5,"NumPy, Flask, SQL, React, Deep Learning",1,Data Scientist,Tier 2,"Kannada, Tamil, Hindi",Bangalore,0
+Candidate_946,Bachelor's,0.5,"NumPy, Node.js, React, C++, AWS, Seaborn",0,Backend Developer,Tier 3,"Hindi, English, Telugu",Pune,0
+Candidate_947,Master's,8.3,"Spark, Node.js, Matplotlib",3,Backend Developer,Tier 1,Tamil,Pune,0
+Candidate_948,Bachelor's,8.1,"Flask, Pandas, Machine Learning, Python, AWS",3,ML Engineer,Tier 3,"Telugu, Hindi, English",Chennai,0
+Candidate_949,Bachelor's,9.2,"NumPy, Keras, Deep Learning",0,Data Analyst,Tier 2,"English, Tamil, Kannada",Mumbai,0
+Candidate_950,PhD,2.4,"Seaborn, Spark, NLP, C++",2,Frontend Developer,Tier 2,Kannada,Bangalore,0
+Candidate_951,PhD,7.9,"NLP, AWS, Seaborn",5,Data Scientist,Tier 1,"Telugu, Tamil",Chennai,1
+Candidate_952,PhD,8.0,"NLP, Django, SQL, TensorFlow, Java, Deep Learning",3,ML Engineer,Tier 2,Kannada,Hyderabad,0
+Candidate_953,Bachelor's,7.2,"Machine Learning, SQL, Seaborn, Flask, Python",1,Data Analyst,Tier 3,"Hindi, Kannada, English",Delhi,1
+Candidate_954,Bachelor's,6.8,"TensorFlow, React, Java, Django, NLP, Pandas",4,Data Analyst,Tier 2,"English, Telugu, Tamil",Delhi,0
+Candidate_955,Bachelor's,1.5,"React, Deep Learning, C++, TensorFlow, Machine Learning",5,ML Engineer,Tier 1,Hindi,Chennai,1
+Candidate_956,PhD,4.2,"Java, Node.js, Pandas, Machine Learning",2,Data Scientist,Tier 3,Telugu,Mumbai,0
+Candidate_957,Bachelor's,5.1,"Java, React, AWS, SQL, C++, Flask",5,Frontend Developer,Tier 1,Hindi,Pune,1
+Candidate_958,Bachelor's,8.1,"SQL, AWS, Deep Learning, Flask, Seaborn, Matplotlib",0,Frontend Developer,Tier 2,Hindi,Pune,0
+Candidate_959,Bachelor's,1.1,"Java, Machine Learning, Pandas, React, JavaScript, Python",2,Backend Developer,Tier 2,"English, Telugu, Hindi",Chennai,0
+Candidate_960,Master's,7.1,"NumPy, Java, Seaborn, JavaScript, Node.js",0,ML Engineer,Tier 2,"English, Tamil",Pune,1
+Candidate_961,Bachelor's,5.8,"NumPy, TensorFlow, Keras, JavaScript, Seaborn, C++",1,Frontend Developer,Tier 3,"English, Tamil",Hyderabad,1
+Candidate_962,Bachelor's,1.4,"C++, Seaborn, Machine Learning, Python, JavaScript, React",3,Data Analyst,Tier 1,Telugu,Delhi,1
+Candidate_963,Master's,0.5,"TensorFlow, Django, Java",3,ML Engineer,Tier 1,"English, Hindi",Pune,0
+Candidate_964,PhD,8.9,"Keras, Flask, Python",4,Data Analyst,Tier 1,Kannada,Bangalore,0
+Candidate_965,PhD,1.2,"Java, Django, Python, JavaScript",2,Backend Developer,Tier 2,"Hindi, Kannada",Mumbai,0
+Candidate_966,Master's,5.7,"Django, SQL, React, TensorFlow, Java",0,Data Analyst,Tier 2,Hindi,Mumbai,1
+Candidate_967,Master's,9.2,"Machine Learning, Deep Learning, Flask, Seaborn, JavaScript, Python",2,Frontend Developer,Tier 3,"Tamil, Kannada",Hyderabad,1
+Candidate_968,PhD,0.9,"Seaborn, SQL, AWS",4,ML Engineer,Tier 2,"Hindi, Tamil, Kannada",Chennai,0
+Candidate_969,Master's,9.8,"React, NLP, JavaScript, SQL",3,Data Analyst,Tier 2,"Telugu, Kannada, English",Hyderabad,0
+Candidate_970,Master's,1.0,"JavaScript, Machine Learning, Seaborn, Keras, Python, Django",0,Frontend Developer,Tier 3,Telugu,Mumbai,0
+Candidate_971,Bachelor's,1.3,"C++, NLP, Matplotlib, Spark, Python",0,Frontend Developer,Tier 3,English,Mumbai,1
+Candidate_972,Bachelor's,6.8,"Keras, NumPy, SQL",2,ML Engineer,Tier 3,"Kannada, English",Chennai,0
+Candidate_973,Bachelor's,1.8,"C++, Node.js, Django, Deep Learning, Machine Learning",3,Data Analyst,Tier 3,"Tamil, Kannada",Hyderabad,0
+Candidate_974,Bachelor's,6.8,"Pandas, Spark, Java, Deep Learning, AWS",0,Data Analyst,Tier 1,"Kannada, Telugu, Hindi",Pune,1
+Candidate_975,Master's,8.5,"Spark, Node.js, Keras, Deep Learning, TensorFlow, Pandas",0,Data Analyst,Tier 2,"Kannada, Telugu, Hindi",Pune,0
+Candidate_976,PhD,5.6,"Seaborn, Python, NLP, Pandas, Java, TensorFlow",1,Backend Developer,Tier 3,"Telugu, English",Delhi,1
+Candidate_977,Master's,2.4,"SQL, Spark, React",1,Data Scientist,Tier 2,"Hindi, Kannada",Hyderabad,0
+Candidate_978,Bachelor's,6.9,"Node.js, JavaScript, AWS, TensorFlow, Machine Learning, Spark",0,Backend Developer,Tier 1,"Hindi, Kannada",Mumbai,1
+Candidate_979,Master's,3.8,"Flask, React, Pandas, NumPy",1,Data Analyst,Tier 1,Kannada,Chennai,1
+Candidate_980,PhD,1.4,"Django, React, Python, SQL",2,Data Scientist,Tier 3,Hindi,Hyderabad,0
+Candidate_981,PhD,2.8,"Node.js, Machine Learning, NumPy, C++",4,Data Analyst,Tier 3,Telugu,Chennai,0
+Candidate_982,Master's,8.6,"Flask, Deep Learning, JavaScript, TensorFlow, Java",3,Frontend Developer,Tier 3,"Kannada, English, Telugu",Delhi,0
+Candidate_983,Bachelor's,1.2,"TensorFlow, Machine Learning, Django",1,Backend Developer,Tier 2,"Hindi, Kannada, Telugu",Mumbai,0
+Candidate_984,Master's,4.7,"C++, Keras, Matplotlib, Java",3,ML Engineer,Tier 3,"English, Telugu",Bangalore,1
+Candidate_985,Bachelor's,5.6,"Django, TensorFlow, Java",2,Data Analyst,Tier 3,"Tamil, Hindi, Kannada",Chennai,0
+Candidate_986,Bachelor's,7.3,"NumPy, Machine Learning, Java",1,ML Engineer,Tier 3,"Telugu, Kannada, Hindi",Delhi,0
+Candidate_987,Bachelor's,4.3,"JavaScript, NLP, Python, Keras, React, Seaborn",0,Backend Developer,Tier 1,"Tamil, Telugu, Hindi",Mumbai,1
+Candidate_988,PhD,0.7,"Flask, Deep Learning, NumPy, Node.js, SQL, AWS",1,Data Analyst,Tier 3,"Telugu, Tamil, Kannada",Bangalore,0
+Candidate_989,Master's,6.0,"Java, Spark, Deep Learning, Seaborn, Python, Keras",2,Data Analyst,Tier 3,Hindi,Mumbai,1
+Candidate_990,Master's,3.0,"JavaScript, Django, Flask, TensorFlow",0,Backend Developer,Tier 3,"Kannada, English, Tamil",Bangalore,0
+Candidate_991,Master's,6.2,"Django, Flask, Python, Seaborn, C++",1,ML Engineer,Tier 3,Hindi,Hyderabad,0
+Candidate_992,PhD,9.7,"NumPy, Machine Learning, React, Seaborn, Deep Learning",3,ML Engineer,Tier 3,"English, Hindi",Hyderabad,1
+Candidate_993,Bachelor's,4.5,"Java, Deep Learning, Seaborn, Machine Learning, C++, Node.js",4,Data Scientist,Tier 1,"Hindi, Tamil, Telugu",Pune,0
+Candidate_994,Master's,4.0,"Spark, Seaborn, Flask, TensorFlow, Python, Matplotlib",5,Frontend Developer,Tier 3,"Kannada, Tamil",Delhi,0
+Candidate_995,Master's,1.9,"Python, Pandas, JavaScript, Node.js",3,Data Scientist,Tier 3,Kannada,Hyderabad,0
+Candidate_996,Master's,0.8,"JavaScript, Python, SQL, Keras, Deep Learning, React",2,ML Engineer,Tier 2,"Tamil, Telugu",Pune,0
+Candidate_997,PhD,9.5,"Deep Learning, NLP, NumPy, Spark, SQL",1,Frontend Developer,Tier 2,English,Bangalore,0
+Candidate_998,Master's,5.2,"Matplotlib, Keras, AWS, JavaScript, Machine Learning",5,Data Scientist,Tier 2,"Tamil, Kannada",Chennai,0
+Candidate_999,Bachelor's,1.5,"Machine Learning, Flask, C++, Matplotlib, NumPy",2,Data Scientist,Tier 1,Kannada,Mumbai,0
+Candidate_1000,PhD,10.0,"Matplotlib, Django, Deep Learning",3,Data Scientist,Tier 2,Hindi,Mumbai,1
